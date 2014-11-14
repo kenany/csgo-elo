@@ -1,5 +1,5 @@
 var csvWriter = require('csv-write-stream');
-var eachAsync = require('each-async');
+var eachAsync = require('each-series');
 var getMatches = require('gosugamers-matches');
 var through = require('through');
 var inherits = require('inherits');
