@@ -1,0 +1,13 @@
+{
+  "name": "@csgo-elo/tablify",
+  "version": "0.0.0",
+  "description": "Generate standings table",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "bin": {
+    "tablify": "index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "csv-parser": "^1.4.6"
+  }
+}
