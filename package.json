@@ -9,6 +9,7 @@
     "fetch": "fetch-matches"
   },
   "dependencies": {
-    "@csgo-elo/fetch-matches": "file:fetch-matches"
+    "@csgo-elo/fetch-matches": "file:fetch-matches",
+    "@csgo-elo/tablify": "file:tablify"
   }
 }
