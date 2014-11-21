@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var csv = require('csv-parser');
 
 var rank = 1;
