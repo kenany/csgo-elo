@@ -1,0 +1,1134 @@
+date,team1,team2,result1,result2
+2014-06-14T14:00:00.000Z,Ninjas in Pyjamas,Berzerk,1,0
+2014-06-14T14:00:00.000Z,Epsilon,Publiclir.se,1,0
+2014-06-14T16:00:00.000Z,Publiclir.se,Berzerk,0,1
+2014-06-14T16:00:00.000Z,Epsilon,Ninjas in Pyjamas,0,1
+2014-06-14T16:45:00.000Z,Epsilon,Berzerk,1,0
+2014-06-14T19:30:00.000Z,fnatic,SK Gaming,0,1
+2014-06-14T19:30:00.000Z,Virtus Pro-CS,London Conspiracy.CS,1,0
+2014-06-14T20:30:00.000Z,London Conspiracy.CS,fnatic,0,1
+2014-06-14T20:30:00.000Z,Virtus Pro-CS,SK Gaming,1,0
+2014-06-14T21:30:00.000Z,fnatic,SK Gaming,0,1
+2014-06-15T10:00:00.000Z,SK Gaming,hiGhrollers,2,0
+2014-06-15T10:00:00.000Z,Ninjas in Pyjamas,Pangafett.se,2,0
+2014-06-15T10:00:00.000Z,fnatic,Flipsid3 Tactics,2,0
+2014-06-15T10:00:00.000Z,Publiclir.se,Vengeance & Evil,2,0
+2014-06-15T12:30:00.000Z,fnatic,Publiclir.se,2,0
+2014-06-15T12:30:00.000Z,SK Gaming,Ninjas in Pyjamas,1,2
+2014-06-15T14:00:00.000Z,Titan.CS,o4o,1,0
+2014-06-15T14:00:00.000Z,HellRaisers,Reason Gaming CS,1,0
+2014-06-15T15:00:00.000Z,o4o,Reason Gaming CS,0,1
+2014-06-15T15:00:00.000Z,Titan.CS,HellRaisers,0,1
+2014-06-15T16:00:00.000Z,Titan.CS,Reason Gaming CS,1,0
+2014-06-15T19:00:00.000Z,Natus Vincere,Flipsid3 Tactics,0,1
+2014-06-15T19:00:00.000Z,Expert Gaming,Lemondogs CS,0,1
+2014-06-15T20:00:00.000Z,Natus Vincere,Expert Gaming,1,0
+2014-06-15T20:00:00.000Z,Flipsid3 Tactics,Lemondogs CS,0,1
+2014-06-15T21:00:00.000Z,Flipsid3 Tactics,Natus Vincere,0,1
+2014-06-15T23:00:00.000Z,HellRaisers,SK Gaming,2,0
+2014-06-15T23:00:00.000Z,Ninjas in Pyjamas,Titan.CS,2,1
+2014-06-16T00:00:00.000Z,fnatic,Ninjas in Pyjamas,2,0
+2014-06-16T09:00:00.000Z,Lemondogs CS,Epsilon,0,2
+2014-06-16T09:00:00.000Z,Virtus Pro-CS,Natus Vincere,0,2
+2014-06-16T13:30:00.000Z,Epsilon,Natus Vincere,0,2
+2014-06-16T17:00:00.000Z,Ninjas in Pyjamas,HellRaisers,2,1
+2014-06-16T22:30:00.000Z,Natus Vincere,Ninjas in Pyjamas,0,2
+2014-06-19T19:00:00.000Z,ALSEN,HyperShots,1,0
+2014-06-22T12:00:00.000Z,Team Dignitas.CS,Refuse,2,0
+2014-06-22T12:00:00.000Z,mousesports.CS,dAT team,2,1
+2014-06-22T14:00:00.000Z,myRevenge,HyperShots,0,1
+2014-06-22T14:00:00.000Z,Ninjas in Pyjamas,OnlineBOTS,2,1
+2014-06-22T14:30:00.000Z,AliGon,OveR Gaming,2,1
+2014-06-22T15:00:00.000Z,RedWinged,Virtus Pro-CS,0,1
+2014-06-22T16:00:00.000Z,Team Dignitas.CS,dAT team,2,0
+2014-06-22T16:00:00.000Z,Dobry&Gaming,Virtus Pro-CS,0,1
+2014-06-22T18:00:00.000Z,Ninjas in Pyjamas,AliGon,2,0
+2014-06-22T21:00:00.000Z,Team Dignitas.CS,Ninjas in Pyjamas,2,1
+2014-06-25T17:00:00.000Z,HyperShots,RedWinged,1,0
+2014-06-25T18:00:00.000Z,Team LDLC,ESC Gaming,1,0
+2014-06-25T19:00:00.000Z,myRevenge,noMERCY,0,1
+2014-06-25T19:00:00.000Z,ESC Gaming,mousesports.CS,0,1
+2014-06-25T20:00:00.000Z,ALSEN,Virtus Pro-CS,1,0
+2014-06-26T19:00:00.000Z,ESC Gaming,USSR,1,0
+2014-06-26T20:00:00.000Z,SK Gaming,ESC Gaming,1,0
+2014-06-27T22:30:00.000Z,All-Stars North America,All-Stars Europe,1,0
+2014-06-28T00:30:00.000Z,Ninjas in Pyjamas,compLexity Gaming,1,2
+2014-06-28T03:00:00.000Z,OveR Gaming,iBUYPOWER,0,2
+2014-06-28T16:30:00.000Z,Natus Vincere,Manajuma,2,0
+2014-06-28T18:30:00.000Z,compLexity Gaming,Natus Vincere,2,0
+2014-06-28T19:00:00.000Z,Netcode,OveR Gaming,2,0
+2014-06-28T21:00:00.000Z,Ninjas in Pyjamas,Manajuma,2,0
+2014-06-28T23:30:00.000Z,Virtus Pro-CS,Netcode,2,0
+2014-06-29T01:30:00.000Z,Virtus Pro-CS,iBUYPOWER,1,2
+2014-06-29T03:30:00.000Z,Natus Vincere,Netcode,2,0
+2014-06-29T03:30:00.000Z,compLexity Gaming,iBUYPOWER,0,2
+2014-06-29T03:30:00.000Z,Virtus Pro-CS,Ninjas in Pyjamas,2,1
+2014-06-29T14:00:00.000Z,HyperShots,noMERCY,1,0
+2014-06-29T15:00:00.000Z,Virtus Pro-CS,Natus Vincere,2,1
+2014-06-29T15:00:00.000Z,RedWinged,myRevenge,0,1
+2014-06-29T16:00:00.000Z,ALSEN,ESC Gaming,0,1
+2014-06-29T18:30:00.000Z,compLexity Gaming,Virtus Pro-CS,2,1
+2014-06-29T21:00:00.000Z,iBUYPOWER,compLexity Gaming,2,0
+2014-06-30T18:00:00.000Z,es4x,UNNAMED.CS,2,1
+2014-07-02T18:00:00.000Z,USSR,es4x,2,0
+2014-07-03T18:00:00.000Z,UNNAMED.CS,ACES,0,2
+2014-07-06T09:30:00.000Z,ALSEN,ESC Gaming,1,2
+2014-07-06T16:45:00.000Z,Virtus Pro-CS,ESC Gaming,2,0
+2014-07-06T18:00:00.000Z,mousesports.CS,OveR Gaming,1,0
+2014-07-06T19:00:00.000Z,Nostalgie,mousesports.CS,0,1
+2014-07-06T19:00:00.000Z,Reason Gaming CS,OveR Gaming,0,1
+2014-07-06T20:00:00.000Z,mousesports.CS,Reason Gaming CS,1,0
+2014-07-06T21:00:00.000Z,SK Gaming,Titan.CS,1,0
+2014-07-07T18:00:00.000Z,HellRaisers,OnlineBOTS,1,0
+2014-07-07T19:00:00.000Z,Reason Gaming CS,OnlineBOTS,1,0
+2014-07-07T20:00:00.000Z,Nostalgie,HellRaisers,0,1
+2014-07-07T21:00:00.000Z,HellRaisers,OveR Gaming,1,0
+2014-07-08T18:00:00.000Z,HellRaisers,Virtus Pro-CS,0,1
+2014-07-08T19:00:00.000Z,Reason Gaming CS,Virtus Pro-CS,0,1
+2014-07-08T20:00:00.000Z,Titan.CS,Reason Gaming CS,1,0
+2014-07-08T20:00:00.000Z,Virtus Pro-CS,OnlineBOTS,1,0
+2014-07-09T17:00:00.000Z,fnatic,Berzerk,1,0
+2014-07-09T18:00:00.000Z,Nostalgie,ESC Gaming,0,1
+2014-07-09T18:00:00.000Z,Virtus Pro-CS,Berzerk,1,0
+2014-07-09T19:00:00.000Z,Nostalgie,Virtus Pro-CS,0,1
+2014-07-09T19:00:00.000Z,mousesports.CS,Berzerk,1,0
+2014-07-09T20:00:00.000Z,Reason Gaming CS,Berzerk,1,0
+2014-07-09T20:00:00.000Z,Virtus Pro-CS,SK Gaming,0,1
+2014-07-09T21:00:00.000Z,SK Gaming,Reason Gaming CS,1,0
+2014-07-10T19:00:00.000Z,OnlineBOTS,mousesports.CS,0,1
+2014-07-10T20:00:00.000Z,OnlineBOTS,Nostalgie,1,0
+2014-07-13T18:00:00.000Z,OnlineBOTS,Natus Vincere,0,1
+2014-07-13T19:00:00.000Z,ESG!,HellRaisers,0,1
+2014-07-13T19:00:00.000Z,Natus Vincere,ESC Gaming,1,0
+2014-07-14T17:00:00.000Z,Team LDLC,HellRaisers,0,1
+2014-07-14T18:00:00.000Z,Epsilon,HellRaisers,0,1
+2014-07-14T19:30:00.000Z,Team LDLC,fnatic,0,1
+2014-07-15T17:00:00.000Z,ESC Gaming,HellRaisers,0,1
+2014-07-15T18:00:00.000Z,Team LDLC,Nostalgie,1,0
+2014-07-15T19:00:00.000Z,Titan.CS,HellRaisers,0,1
+2014-07-15T19:00:00.000Z,Nostalgie,OveR Gaming,0,1
+2014-07-15T19:30:00.000Z,Berzerk,AliGon,0,1
+2014-07-15T20:00:00.000Z,Titan.CS,fnatic,0,1
+2014-07-15T20:00:00.000Z,Epsilon,Nostalgie,1,0
+2014-07-15T20:30:00.000Z,CPH Wolves,AliGon,0,2
+2014-07-16T17:00:00.000Z,fnatic,Team LDLC,1,2
+2014-07-16T18:00:00.000Z,USSR,OnlineBOTS,1,0
+2014-07-16T18:30:00.000Z,ESG!,AliGon,1,2
+2014-07-16T19:00:00.000Z,USSR,Berzerk,0,1
+2014-07-16T19:30:00.000Z,Titan.CS,Natus Vincere,0,2
+2014-07-16T20:00:00.000Z,Team LDLC,USSR,1,0
+2014-07-16T22:00:00.000Z,Team LDLC,Natus Vincere,1,2
+2014-07-17T20:00:00.000Z,mousesports.CS,fnatic,0,1
+2014-07-17T21:00:00.000Z,Reason Gaming CS,fnatic,0,1
+2014-07-18T09:00:00.000Z,Team LDLC,Geduld,1,0
+2014-07-18T09:00:00.000Z,HellRaisers,Anima,1,0
+2014-07-18T09:00:00.000Z,HybriD,Planetkey Dynamics,0,1
+2014-07-18T09:00:00.000Z,webSPELL,Outbreak,1,0
+2014-07-18T13:00:00.000Z,Team LDLC,webSPELL,1,0
+2014-07-18T13:00:00.000Z,Anima,HybriD,0,1
+2014-07-18T13:00:00.000Z,Geduld,Outbreak,0,1
+2014-07-18T13:00:00.000Z,HellRaisers,Planetkey Dynamics,1,0
+2014-07-18T14:45:00.000Z,Planetkey Dynamics,HybriD,1,0
+2014-07-18T15:00:00.000Z,webSPELL,Outbreak,0,1
+2014-07-18T16:00:00.000Z,gBots,Platinium,0,1
+2014-07-18T16:00:00.000Z,OveR Gaming,Legacy,1,0
+2014-07-18T16:00:00.000Z,FTW.CS,Epsilon,0,1
+2014-07-18T16:00:00.000Z,k1ck eSports Club,INShock,1,0
+2014-07-18T17:45:00.000Z,INShock,Legacy,1,0
+2014-07-18T17:45:00.000Z,k1ck eSports Club,OveR Gaming,1,0
+2014-07-18T19:15:00.000Z,FTW.CS,gBots,0,1
+2014-07-18T19:15:00.000Z,Epsilon,Platinium,1,0
+2014-07-18T19:30:00.000Z,OveR Gaming,INShock,1,0
+2014-07-18T21:15:00.000Z,Platinium,gBots,1,0
+2014-07-19T10:00:00.000Z,HellRaisers,Outbreak,2,1
+2014-07-19T10:00:00.000Z,Epsilon,OveR Gaming,2,0
+2014-07-19T10:00:00.000Z,Team LDLC,Planetkey Dynamics,2,1
+2014-07-19T10:00:00.000Z,k1ck eSports Club,Platinium,2,1
+2014-07-19T14:00:00.000Z,HellRaisers,Epsilon,1,2
+2014-07-19T17:00:00.000Z,k1ck eSports Club,Team LDLC,1,2
+2014-07-19T21:15:00.000Z,Epsilon,Team LDLC,1,2
+2014-07-20T23:00:00.000Z,noMERCY,RedWinged,1,0
+2014-07-21T18:00:00.000Z,USSR,ESG!,0,1
+2014-07-21T19:00:00.000Z,OnlineBOTS,ESG!,0,1
+2014-07-21T19:00:00.000Z,Team LDLC,Reason Gaming CS,1,0
+2014-07-21T21:00:00.000Z,Epsilon,ESG!,0,1
+2014-07-23T17:00:00.000Z,HellRaisers,Epsilon,1,2
+2014-07-23T20:00:00.000Z,Natus Vincere,Epsilon,2,0
+2014-07-25T17:00:00.000Z,fnatic,Epsilon,1,0
+2014-07-25T18:00:00.000Z,USSR,Epsilon,0,1
+2014-07-25T19:00:00.000Z,Natus Vincere,Nostalgie,1,0
+2014-07-25T19:00:00.000Z,Virtus Pro-CS,USSR,1,0
+2014-07-25T20:00:00.000Z,Virtus Pro-CS,Epsilon,0,1
+2014-07-25T21:00:00.000Z,Reason Gaming CS,Epsilon,0,1
+2014-07-27T21:30:00.000Z,4andahalfmen,SVETTiGA,1,2
+2014-07-28T18:00:00.000Z,Berzerk,Natus Vincere,0,1
+2014-07-28T19:00:00.000Z,ESC Gaming,Reason Gaming CS,0,1
+2014-07-28T20:00:00.000Z,Natus Vincere,mousesports.CS,0,1
+2014-07-28T21:00:00.000Z,Natus Vincere,Reason Gaming CS,0,1
+2014-07-29T17:00:00.000Z,Team LDLC,Berzerk,1,0
+2014-07-29T18:00:00.000Z,Nostalgie,fnatic,1,0
+2014-07-29T18:00:00.000Z,Epsilon,Natus Vincere,0,1
+2014-07-29T19:00:00.000Z,Epsilon,Titan.CS,0,1
+2014-07-29T19:00:00.000Z,Natus Vincere,fnatic,1,0
+2014-07-29T20:00:00.000Z,Nostalgie,Reason Gaming CS,1,0
+2014-07-29T20:00:00.000Z,Ninjas in Pyjamas,Titan.CS,0,1
+2014-07-29T20:00:00.000Z,OveR Gaming,Natus Vincere,0,1
+2014-07-29T21:00:00.000Z,ESC Gaming,Virtus Pro-CS,0,1
+2014-07-30T17:00:00.000Z,Ninjas in Pyjamas,Team LDLC,2,1
+2014-07-30T19:45:00.000Z,Natus Vincere,Ninjas in Pyjamas,2,1
+2014-07-31T15:00:00.000Z,TOOMUCHVIDEOGAMES,Team Menace.fi,0,1
+2014-07-31T15:00:00.000Z,Publiclir.se,Joutsenlaulu,1,0
+2014-07-31T17:30:00.000Z,Joutsenlaulu,TOOMUCHVIDEOGAMES,0,1
+2014-07-31T17:30:00.000Z,fnatic,Team Russia.CS,1,0
+2014-07-31T17:30:00.000Z,Publiclir.se,Team Menace.fi,1,0
+2014-07-31T18:00:00.000Z,ESG!,Awesome is Nothing,1,0
+2014-07-31T18:00:00.000Z,Ninjas in Pyjamas,Natus Vincere,1,0
+2014-07-31T18:30:00.000Z,Team Menace.fi,TOOMUCHVIDEOGAMES,1,0
+2014-07-31T19:00:00.000Z,Titan.CS,Natus Vincere,1,0
+2014-07-31T20:00:00.000Z,Titan.CS,ESC Gaming,1,0
+2014-07-31T20:00:00.000Z,myRevenge,ajuri,1,0
+2014-07-31T20:00:00.000Z,ENCORE,naMNam,1,0
+2014-07-31T21:00:00.000Z,ajuri,naMNam,0,1
+2014-07-31T21:00:00.000Z,myRevenge,ENCORE,0,1
+2014-07-31T22:00:00.000Z,myRevenge,naMNam,1,0
+2014-08-01T02:00:00.000Z,Area 51 Gaming,SapphireKelownaDotCom,1,0
+2014-08-01T02:00:00.000Z,Denial eSports,Netcode,1,0
+2014-08-01T02:00:00.000Z,Exertus,Area 51 Gaming,0,1
+2014-08-01T03:00:00.000Z,SapphireKelownaDotCom,Reliable,1,0
+2014-08-01T03:30:00.000Z,Justus Pro,Global Gaming eSports,1,0
+2014-08-01T04:30:00.000Z,Area 51 Gaming,Global Gaming eSports,0,1
+2014-08-01T15:00:00.000Z,Games4u.se,Paranoia eSports,1,0
+2014-08-01T15:00:00.000Z,Expert Gaming,RCTIC eSports.CS,1,0
+2014-08-01T16:15:00.000Z,RCTIC eSports.CS,Paranoia eSports,1,0
+2014-08-01T16:15:00.000Z,Expert Gaming,Games4u.se,0,1
+2014-08-01T17:15:00.000Z,Expert Gaming,RCTIC eSports.CS,1,0
+2014-08-01T19:00:00.000Z,PENTA Sports,MARVEL,1,0
+2014-08-01T19:00:00.000Z,Recursive eSports,Nostalgie,0,1
+2014-08-01T19:00:00.000Z,OveR Gaming,USSR,1,0
+2014-08-01T20:15:00.000Z,PENTA Sports,Nostalgie,0,1
+2014-08-01T20:15:00.000Z,MARVEL,Recursive eSports,0,1
+2014-08-01T21:15:00.000Z,PENTA Sports,Recursive eSports,0,1
+2014-08-01T23:30:00.000Z,Team Infused.CS,London Conspiracy.CS,0,1
+2014-08-01T23:30:00.000Z,Games4u.se,Recursive eSports,0,2
+2014-08-01T23:30:00.000Z,Nostalgie,Team Menace.fi,2,1
+2014-08-01T23:30:00.000Z,Team Dignitas.CS,Titan.CS,1,0
+2014-08-02T08:30:00.000Z,ENCORE,Expert Gaming,2,0
+2014-08-02T08:30:00.000Z,Publiclir.se,myRevenge,1,2
+2014-08-02T10:15:00.000Z,mousesports.CS,FM eSports,1,0
+2014-08-02T10:15:00.000Z,iBUYPOWER,fnatic,1,1
+2014-08-02T10:15:00.000Z,Ninjas in Pyjamas,Epsilon,0,1
+2014-08-02T13:00:00.000Z,Virtus Pro-CS,ESG!,1,0
+2014-08-02T13:00:00.000Z,fnatic,Epsilon,1,0
+2014-08-02T14:00:00.000Z,London Conspiracy.CS,iBUYPOWER,1,0
+2014-08-02T14:30:00.000Z,myRevenge,Recursive eSports,2,0
+2014-08-02T14:30:00.000Z,Ninjas in Pyjamas,fnatic,0,1
+2014-08-02T14:30:00.000Z,Virtus Pro-CS,mousesports.CS,0,1
+2014-08-02T15:30:00.000Z,ESG!,Team Dignitas.CS,0,1
+2014-08-02T15:30:00.000Z,Ninjas in Pyjamas,Team Infused.CS,1,0
+2014-08-02T15:30:00.000Z,Titan.CS,FM eSports,1,0
+2014-08-02T17:00:00.000Z,ENCORE,Nostalgie,2,1
+2014-08-02T17:15:00.000Z,ESG!,mousesports.CS,1,0
+2014-08-02T17:15:00.000Z,iBUYPOWER,Team Infused.CS,1,1
+2014-08-02T17:30:00.000Z,Virtus Pro-CS,Titan.CS,1,1
+2014-08-02T19:00:00.000Z,Ninjas in Pyjamas,iBUYPOWER,0,1
+2014-08-02T19:00:00.000Z,Team Dignitas.CS,mousesports.CS,1,0
+2014-08-02T19:00:00.000Z,fnatic,London Conspiracy.CS,1,0
+2014-08-02T20:00:00.000Z,Fnatic 2008,mTw 2008,0,2
+2014-08-02T20:15:00.000Z,myRevenge,ENCORE,2,1
+2014-08-02T20:30:00.000Z,Virtus Pro-CS,Team Dignitas.CS,0,1
+2014-08-02T20:45:00.000Z,Epsilon,Team Infused.CS,1,0
+2014-08-02T20:45:00.000Z,FM eSports,ESG!,0,1
+2014-08-02T21:45:00.000Z,Ninjas in Pyjamas,London Conspiracy.CS,1,0
+2014-08-02T22:30:00.000Z,Team Infused.CS,fnatic,0,1
+2014-08-02T22:45:00.000Z,Titan.CS,ESG!,1,0
+2014-08-02T23:15:00.000Z,Epsilon,iBUYPOWER,0,1
+2014-08-02T23:45:00.000Z,London Conspiracy.CS,Virtus Pro-CS,1,2
+2014-08-03T00:15:00.000Z,Virtus Pro-CS,FM eSports,1,0
+2014-08-03T00:15:00.000Z,mousesports.CS,Titan.CS,0,1
+2014-08-03T00:30:00.000Z,FM eSports,Team Dignitas.CS,1,0
+2014-08-03T09:00:00.000Z,London Conspiracy.CS,Epsilon,1,0
+2014-08-03T10:30:00.000Z,iBUYPOWER,Titan.CS,0,2
+2014-08-03T10:30:00.000Z,fnatic,mousesports.CS,2,1
+2014-08-03T13:00:00.000Z,Team Dignitas.CS,Ninjas in Pyjamas,2,0
+2014-08-03T15:30:00.000Z,fnatic,Titan.CS,1,2
+2014-08-03T18:15:00.000Z,Virtus Pro-CS,Team Dignitas.CS,2,1
+2014-08-03T21:15:00.000Z,Titan.CS,Virtus Pro-CS,0,2
+2014-08-04T18:00:00.000Z,Playing-Ducks,Team Alternate.CS,0,1
+2014-08-04T18:00:00.000Z,Planetkey Dynamics,team.CS,1,0
+2014-08-05T03:00:00.000Z,Exertus,savage,1,0
+2014-08-05T04:00:00.000Z,compLexity Gaming,savage,1,0
+2014-08-05T17:00:00.000Z,Titan.CS,Nostalgie,1,0
+2014-08-05T18:00:00.000Z,OnlineBOTS,Titan.CS,0,1
+2014-08-05T18:00:00.000Z,Virtus Pro-CS,OveR Gaming,1,0
+2014-08-05T18:00:00.000Z,mousesports.CS,myKPV.de,1,0
+2014-08-05T18:00:00.000Z,Death.Energy,mTw.CS,0,1
+2014-08-05T19:00:00.000Z,thechaps,4andahalfmen,0,1
+2014-08-05T19:00:00.000Z,OveR Gaming,OnlineBOTS,1,0
+2014-08-05T19:00:00.000Z,SVETTiGA,Rasta.B2G,0,1
+2014-08-05T19:15:00.000Z,mousesports.CS,mTw.CS,1,0
+2014-08-05T20:00:00.000Z,PENTA Sports,Titan.CS,0,1
+2014-08-05T20:00:00.000Z,myKPV.de,Death.Energy,0,1
+2014-08-05T20:15:00.000Z,Rasta.B2G,4andahalfmen,0,2
+2014-08-05T21:00:00.000Z,Team LDLC,Titan.CS,0,1
+2014-08-05T21:15:00.000Z,mTw.CS,Death.Energy,1,0
+2014-08-06T03:00:00.000Z,Manajuma,Exertus,0,1
+2014-08-06T04:00:00.000Z,Exertus,Tempo Gaming,1,0
+2014-08-06T17:00:00.000Z,CPH Wolves,iBUYPOWER,0,2
+2014-08-06T17:00:00.000Z,HellRaisers,PENTA Sports,1,0
+2014-08-06T18:00:00.000Z,Team LDLC,Virtus Pro-CS,1,0
+2014-08-06T19:00:00.000Z,Team LDLC,Epsilon,0,1
+2014-08-06T19:00:00.000Z,ESG!,Nostalgie,1,0
+2014-08-06T19:30:00.000Z,Natus Vincere,iBUYPOWER,1,2
+2014-08-06T20:00:00.000Z,Team LDLC,OnlineBOTS,1,0
+2014-08-06T20:00:00.000Z,HellRaisers,Awesome is Nothing,1,0
+2014-08-06T21:00:00.000Z,PENTA Sports,Epsilon,0,1
+2014-08-07T02:45:00.000Z,VexX Gaming eSports,Netcode,0,1
+2014-08-07T04:00:00.000Z,Netcode,Exertus,0,1
+2014-08-07T17:00:00.000Z,OveR Gaming,Titan.CS,0,1
+2014-08-07T18:00:00.000Z,Virtus Pro-CS,Titan.CS,1,0
+2014-08-07T19:00:00.000Z,Natus Vincere,HellRaisers,1,1
+2014-08-07T19:00:00.000Z,mousesports.CS,Virtus Pro-CS,0,1
+2014-08-07T19:00:00.000Z,Team Dignitas.CS,fnatic,0,1
+2014-08-07T20:00:00.000Z,PENTA Sports,ESC Gaming,1,1
+2014-08-07T20:00:00.000Z,Titan.CS,mousesports.CS,0,1
+2014-08-07T21:00:00.000Z,Team LDLC,Natus Vincere,1,0
+2014-08-08T03:00:00.000Z,Exertus,Reliable,1,0
+2014-08-08T03:00:00.000Z,Netcode,savage,1,0
+2014-08-08T03:00:00.000Z,SapphireKelownaDotCom,Make War Not Love,1,0
+2014-08-08T04:00:00.000Z,Reliable,Exertus,0,1
+2014-08-08T05:00:00.000Z,Netcode,Area 51 Gaming,0,1
+2014-08-08T17:00:00.000Z,Titan.CS,Natus Vincere,1,0
+2014-08-08T18:00:00.000Z,Team LDLC,OveR Gaming,1,0
+2014-08-08T19:00:00.000Z,OnlineBOTS,Epsilon,0,1
+2014-08-08T19:30:00.000Z,fnatic,Natus Vincere,1,0
+2014-08-09T18:00:00.000Z,fnatic,OveR Gaming,1,0
+2014-08-09T20:00:00.000Z,UNNAMED.CS,USSR,1,2
+2014-08-10T17:00:00.000Z,PENTA Sports,ESG!,0,1
+2014-08-10T18:00:00.000Z,OnlineBOTS,ESC Gaming,0,1
+2014-08-10T18:00:00.000Z,OveR Gaming,PENTA Sports,0,1
+2014-08-10T19:00:00.000Z,OveR Gaming,ESG!,1,1
+2014-08-10T19:00:00.000Z,Epsilon,ESC Gaming,0,1
+2014-08-10T20:00:00.000Z,OveR Gaming,Epsilon,0,1
+2014-08-11T17:00:00.000Z,Team LDLC,mousesports.CS,0,1
+2014-08-11T18:00:00.000Z,fnatic,OnlineBOTS,1,0
+2014-08-11T19:00:00.000Z,ESG!,Natus Vincere,0,1
+2014-08-11T19:00:00.000Z,ESC Gaming,fnatic,0,1
+2014-08-11T20:45:00.000Z,ESG!,mousesports.CS,0,1
+2014-08-11T21:30:00.000Z,fnatic,ESG!,1,0
+2014-08-12T17:00:00.000Z,PENTA Sports,OnlineBOTS,1,0
+2014-08-12T18:00:00.000Z,PENTA Sports,Nostalgie,1,0
+2014-08-12T19:00:00.000Z,ESC Gaming,OveR Gaming,1,1
+2014-08-12T19:00:00.000Z,Epsilon,mousesports.CS,0,1
+2014-08-12T19:45:00.000Z,4andahalfmen,Rasta.B2G,1,0
+2014-08-12T19:45:00.000Z,SVETTiGA,United Estonia,0,1
+2014-08-12T21:30:00.000Z,United Estonia,4andahalfmen,2,1
+2014-08-13T03:00:00.000Z,LunatiK eSports,savage,0,1
+2014-08-13T04:00:00.000Z,VexX Gaming eSports,LunatiK eSports,0,1
+2014-08-13T23:00:00.000Z,CPH Wolves,Natus Vincere,0,1
+2014-08-14T08:00:00.000Z,Epsilon,HellRaisers,1,0
+2014-08-14T08:00:00.000Z,Ninjas in Pyjamas,Wolf,1,0
+2014-08-14T09:15:00.000Z,Wolf,HellRaisers,0,1
+2014-08-14T10:45:00.000Z,Team LDLC,London Conspiracy.CS,1,0
+2014-08-14T12:00:00.000Z,CPH Wolves,London Conspiracy.CS,1,0
+2014-08-14T13:30:00.000Z,Virtus Pro-CS,dAT team,1,0
+2014-08-14T13:45:00.000Z,iBUYPOWER,fnatic,0,1
+2014-08-14T15:00:00.000Z,dAT team,iBUYPOWER,0,1
+2014-08-14T16:30:00.000Z,Team Dignitas.CS,VOX EMINOR,1,0
+2014-08-14T17:00:00.000Z,Titan.CS,Cloud9.CS,0,1
+2014-08-14T19:00:00.000Z,VOX EMINOR,Titan.CS,0,1
+2014-08-14T23:15:00.000Z,Team LDLC,Natus Vincere,1,0
+2014-08-15T08:30:00.000Z,Ninjas in Pyjamas,Epsilon,0,1
+2014-08-15T09:45:00.000Z,HellRaisers,Ninjas in Pyjamas,0,1
+2014-08-15T13:00:00.000Z,CPH Wolves,Natus Vincere,0,1
+2014-08-15T14:15:00.000Z,Virtus Pro-CS,fnatic,0,1
+2014-08-15T16:30:00.000Z,iBUYPOWER,Virtus Pro-CS,0,1
+2014-08-15T17:30:00.000Z,Team Dignitas.CS,Cloud9.CS,0,1
+2014-08-15T19:00:00.000Z,Titan.CS,Team Dignitas.CS,0,1
+2014-08-16T08:00:00.000Z,fnatic,Natus Vincere,2,1
+2014-08-16T12:00:00.000Z,Epsilon,Team Dignitas.CS,0,2
+2014-08-16T14:30:00.000Z,Team LDLC,Virtus Pro-CS,2,0
+2014-08-16T17:15:00.000Z,Ninjas in Pyjamas,Cloud9.CS,2,1
+2014-08-16T23:00:00.000Z,Team LDLC,Ninjas in Pyjamas,1,2
+2014-08-17T08:00:00.000Z,fnatic,Team Dignitas.CS,2,0
+2014-08-17T15:00:00.000Z,fnatic,Ninjas in Pyjamas,1,2
+2014-08-19T18:00:00.000Z,mousesports.CS,Epsilon,2,0
+2014-08-19T19:30:00.000Z,OHYEA,Team Infused.CS,0,1
+2014-08-19T19:30:00.000Z,thechaps,TheGayMole,0,1
+2014-08-19T19:45:00.000Z,NO SIR!,myXMG,0,2
+2014-08-19T20:00:00.000Z,Team Dignitas.CS,Epsilon,1,0
+2014-08-19T21:00:00.000Z,Team Infused.CS,TheGayMole,2,0
+2014-08-20T18:00:00.000Z,mousesports.CS,myXMG,2,1
+2014-08-20T20:00:00.000Z,Nostalgie,NO SIR!,1,2
+2014-08-20T20:30:00.000Z,mousesports.CS,Ninjas in Pyjamas,0,1
+2014-08-21T03:00:00.000Z,iBUYPOWER,Netcode,0,1
+2014-08-21T17:00:00.000Z,Ninjas in Pyjamas,ENCORE,2,0
+2014-08-21T18:00:00.000Z,myXMG,NO SIR!,2,0
+2014-08-21T19:30:00.000Z,mousesports.CS,London Conspiracy.CS,2,1
+2014-08-21T23:15:00.000Z,Ninjas in Pyjamas,mousesports.CS,2,0
+2014-08-22T16:30:00.000Z,ELTZ,NO SIR!,1,2
+2014-08-22T19:00:00.000Z,noMERCY,A-gaming,0,2
+2014-08-22T20:00:00.000Z,London Conspiracy.CS,OveR Gaming,0,2
+2014-08-23T19:30:00.000Z,fnatic,ESG!,2,0
+2014-08-23T19:45:00.000Z,A-gaming,HeadshotBG.CS,2,0
+2014-08-23T21:45:00.000Z,1sh0t,ELTZ,2,0
+2014-08-24T18:00:00.000Z,fnatic,dAT team,2,0
+2014-08-24T19:00:00.000Z,1sh0t,A-gaming,1,2
+2014-08-24T20:00:00.000Z,Natus Vincere,mousesports.CS,0,1
+2014-08-24T20:00:00.000Z,OveR Gaming,fnatic,0,2
+2014-08-25T03:00:00.000Z,Area 51 Gaming,Reliable,1,0
+2014-08-25T03:00:00.000Z,Denial eSports,Netcode,0,1
+2014-08-25T18:00:00.000Z,Ninjas in Pyjamas,Natus Vincere,0,1
+2014-08-25T19:00:00.000Z,UnWanted,dope,1,0
+2014-08-25T19:00:00.000Z,Games4u.se,dAT team,0,1
+2014-08-25T19:00:00.000Z,TOOMUCHVIDEOGAMES,mTw.CS,1,0
+2014-08-25T19:00:00.000Z,PENTA Sports,ttc,1,0
+2014-08-25T20:15:00.000Z,Epsilon,PENTA Sports,1,0
+2014-08-25T20:15:00.000Z,HellRaisers,TOOMUCHVIDEOGAMES,1,0
+2014-08-25T20:15:00.000Z,dAT team,mousesports.CS,0,1
+2014-08-25T21:00:00.000Z,mousesports.CS,Ninjas in Pyjamas,1,0
+2014-08-25T21:00:00.000Z,UnWanted,CPH Wolves,0,1
+2014-08-26T02:00:00.000Z,eLevate,Cytik eSports,1,0
+2014-08-26T02:00:00.000Z,SapphireKelownaDotCom,Armata.CS,0,1
+2014-08-26T02:00:00.000Z,Reliable,Mobility Gaming,0,1
+2014-08-26T03:00:00.000Z,SapphireKelownaDotCom,iBUYPOWER,1,0
+2014-08-26T03:00:00.000Z,Exertus,Area 51 Gaming,1,0
+2014-08-26T03:30:00.000Z,Cloud9.CS,Netcode,1,0
+2014-08-26T04:00:00.000Z,VexX Gaming eSports,Area 51 Gaming,1,0
+2014-08-26T04:00:00.000Z,iBUYPOWER,Exertus,0,1
+2014-08-26T04:00:00.000Z,SapphireKelownaDotCom,Reliable,1,0
+2014-08-26T05:00:00.000Z,savage,Area 51 Gaming,1,0
+2014-08-26T18:00:00.000Z,London Conspiracy.CS,dAT team,2,0
+2014-08-26T19:00:00.000Z,97club,UNNAMED.CS,2,0
+2014-08-26T19:00:00.000Z,Epsilon,CPH Wolves,2,0
+2014-08-26T20:00:00.000Z,Virtus Pro-CS,mousesports.CS,0,1
+2014-08-26T20:30:00.000Z,Natus Vincere,Virtus Pro-CS,0,1
+2014-08-26T21:30:00.000Z,HellRaisers,mousesports.CS,2,0
+2014-08-27T01:30:00.000Z,eLevate,Mobility Gaming,0,2
+2014-08-27T03:00:00.000Z,Exertus,Cloud9.CS,0,1
+2014-08-27T03:15:00.000Z,Armata.CS,savage,0,2
+2014-08-27T04:30:00.000Z,SapphireKelownaDotCom,VexX Gaming eSports,1,0
+2014-08-27T17:00:00.000Z,HellRaisers,Virtus Pro-CS,2,1
+2014-08-27T18:00:00.000Z,OveR Gaming,London Conspiracy.CS,1,2
+2014-08-27T21:00:00.000Z,myXMG,fnatic,1,2
+2014-08-28T03:00:00.000Z,Make War Not Love,Area 51 Gaming,0,1
+2014-08-28T03:00:00.000Z,Reliable,iBUYPOWER,0,1
+2014-08-28T04:00:00.000Z,Global Gaming eSports,Reliable,0,1
+2014-08-28T04:30:00.000Z,Cloud9.CS,SapphireKelownaDotCom,1,0
+2014-08-28T18:00:00.000Z,London Conspiracy.CS,mousesports.CS,0,2
+2014-08-28T19:00:00.000Z,fnatic,Virtus Pro-CS,1,0
+2014-08-28T19:00:00.000Z,es4x,Nostalgie,1,2
+2014-08-28T20:00:00.000Z,Ninjas in Pyjamas,HellRaisers,2,1
+2014-08-28T20:30:00.000Z,mousesports.CS,fnatic,2,1
+2014-08-29T03:00:00.000Z,VexX Gaming eSports,iBUYPOWER,0,1
+2014-08-29T03:00:00.000Z,Area 51 Gaming,savage,0,1
+2014-08-29T04:00:00.000Z,iBUYPOWER,Make War Not Love,1,0
+2014-08-29T04:00:00.000Z,Cloud9.CS,Reliable,0,1
+2014-08-29T05:00:00.000Z,iBUYPOWER,Cloud9.CS,1,0
+2014-08-30T10:00:00.000Z,fnatic,myXMG,2,0
+2014-08-30T13:15:00.000Z,Natus Vincere,HellRaisers,2,0
+2014-08-30T17:00:00.000Z,fnatic,Natus Vincere,2,0
+2014-08-31T10:00:00.000Z,myXMG,HellRaisers,0,2
+2014-08-31T13:30:00.000Z,Natus Vincere,HellRaisers,2,1
+2014-08-31T17:00:00.000Z,fnatic,Natus Vincere,3,2
+2014-09-01T02:30:00.000Z,savage,Justus Pro,1,0
+2014-09-01T03:00:00.000Z,iBUYPOWER,Reliable,1,0
+2014-09-01T03:30:00.000Z,SapphireKelownaDotCom,Justus Pro,0,1
+2014-09-01T04:00:00.000Z,iBUYPOWER,Denial eSports,1,0
+2014-09-01T05:00:00.000Z,Reliable,Denial eSports,0,1
+2014-09-01T05:00:00.000Z,Reliable,Netcode,0,1
+2014-09-01T17:00:00.000Z,Ninjas in Pyjamas,Virtus Pro-CS,2,3
+2014-09-02T03:00:00.000Z,LunatiK eSports,eLevate,1,0
+2014-09-02T03:45:00.000Z,Justus Pro,Reliable,1,0
+2014-09-02T04:00:00.000Z,Netcode,Exertus,1,0
+2014-09-02T04:00:00.000Z,Cloud9.CS,iBUYPOWER,0,1
+2014-09-02T04:00:00.000Z,savage,VexX Gaming eSports,1,0
+2014-09-02T05:00:00.000Z,iBUYPOWER,Area 51 Gaming,1,0
+2014-09-02T19:00:00.000Z,97club,FaithCS,2,1
+2014-09-02T21:45:00.000Z,United Estonia,you stay classy,2,1
+2014-09-03T04:00:00.000Z,Make War Not Love,savage,0,1
+2014-09-03T04:15:00.000Z,eLevate,SapphireKelownaDotCom,1,0
+2014-09-03T19:00:00.000Z,fnatic,Titan.CS,1,0
+2014-09-03T20:00:00.000Z,Team Dignitas.CS,Mercenary,0,1
+2014-09-03T21:00:00.000Z,Virtus Pro-CS,HellRaisers,1,0
+2014-09-04T02:00:00.000Z,Netcode,savage,1,0
+2014-09-04T03:00:00.000Z,Reliable,SapphireKelownaDotCom,0,1
+2014-09-04T03:00:00.000Z,iBUYPOWER,Aware Gaming,1,0
+2014-09-04T04:00:00.000Z,Denial eSports,Cloud9.CS,0,1
+2014-09-04T17:30:00.000Z,dAT team,FaithCS,2,0
+2014-09-04T18:00:00.000Z,fnatic,Virtus Pro-CS,1,0
+2014-09-04T18:00:00.000Z,Latvia.CS,Slovakia.CS,0,1
+2014-09-04T19:00:00.000Z,HellRaisers,Mercenary,0,1
+2014-09-04T19:00:00.000Z,Portugal.CS,Serbia.CS,0,1
+2014-09-04T20:00:00.000Z,Team Dignitas.CS,Virtus Pro-CS,0,1
+2014-09-04T20:00:00.000Z,Ukraine.CS,Czech Republic.CS,1,0
+2014-09-04T20:00:00.000Z,Netherlands.CS,Hungary.CS,1,0
+2014-09-04T20:00:00.000Z,fnatic,Epsilon,1,0
+2014-09-04T21:00:00.000Z,Titan.CS,Ninjas in Pyjamas,0,1
+2014-09-04T21:00:00.000Z,Norway.CS,Poland.CS,0,1
+2014-09-04T22:00:00.000Z,Team Dignitas.CS,Virtus Pro-CS,0,1
+2014-09-05T03:00:00.000Z,iBUYPOWER,Reliable,1,0
+2014-09-05T04:00:00.000Z,iBUYPOWER,Area 51 Gaming,1,0
+2014-09-05T06:00:00.000Z,Reliable,Denial eSports,0,1
+2014-09-05T17:00:00.000Z,dAT team,UNNAMED.CS,1,2
+2014-09-06T12:00:00.000Z,Planetkey Dynamics,mTw.CS,2,0
+2014-09-06T14:30:00.000Z,Playing-Ducks,mousesports.CS,0,2
+2014-09-06T16:30:00.000Z,Planetkey Dynamics,mousesports.CS,2,1
+2014-09-07T18:00:00.000Z,Bosnia and Herzegovina.CS,Kazakhstan.CS,1,0
+2014-09-07T18:00:00.000Z,OveR Gaming,Virtus Pro-CS,0,1
+2014-09-07T20:00:00.000Z,OveR Gaming,Virtus Pro-CS,1,0
+2014-09-07T21:00:00.000Z,Denmark.CS,United Kingdom.CS,1,0
+2014-09-08T03:00:00.000Z,Netcode,eLevate,0,1
+2014-09-08T17:00:00.000Z,Virtus Pro-CS,fnatic,0,3
+2014-09-08T19:00:00.000Z,Finland.CS,Germany.CS,1,0
+2014-09-08T20:00:00.000Z,Epsilon,Titan.CS,0,1
+2014-09-08T21:00:00.000Z,Epsilon,Titan.CS,0,1
+2014-09-09T03:00:00.000Z,iBUYPOWER,savage,2,0
+2014-09-09T03:00:00.000Z,Netcode,eLevate,2,0
+2014-09-09T04:00:00.000Z,Denial eSports,SapphireKelownaDotCom,2,0
+2014-09-09T17:00:00.000Z,mousesports.CS,fnatic,0,2
+2014-09-09T17:00:00.000Z,Belarus.CS,France.CS,0,1
+2014-09-09T19:00:00.000Z,Virtus Pro-CS,Epsilon,1,0
+2014-09-09T19:00:00.000Z,Czech Republic.CS,Hungary.CS,1,0
+2014-09-09T19:30:00.000Z,Ninjas in Pyjamas,fnatic,0,2
+2014-09-10T03:00:00.000Z,Cloud9.CS,Justus Pro,2,0
+2014-09-10T04:00:00.000Z,Denial eSports,eLevate,1,0
+2014-09-10T05:00:00.000Z,Area 51 Gaming,SapphireKelownaDotCom,1,0
+2014-09-10T18:00:00.000Z,Ninjas in Pyjamas,HellRaisers,1,0
+2014-09-10T18:00:00.000Z,myXMG,Virtus Pro-CS,0,2
+2014-09-10T19:00:00.000Z,Epsilon,mousesports.CS,1,0
+2014-09-10T19:00:00.000Z,Team LDLC,Ninjas in Pyjamas,0,1
+2014-09-10T20:00:00.000Z,fnatic,Virtus Pro-CS,1,0
+2014-09-10T21:00:00.000Z,Titan.CS,Epsilon,1,0
+2014-09-10T22:00:00.000Z,Titan.CS,Virtus Pro-CS,1,0
+2014-09-10T22:00:00.000Z,HellRaisers,Team Dignitas.CS,0,1
+2014-09-11T03:00:00.000Z,Cloud9.CS,Netcode,1,0
+2014-09-11T04:00:00.000Z,iBUYPOWER,savage,1,0
+2014-09-11T18:00:00.000Z,Hungary.CS,Kazakhstan.CS,0,1
+2014-09-11T18:00:00.000Z,Team LDLC,GlobalGaming League,2,1
+2014-09-11T19:00:00.000Z,Virtus Pro-CS,Epsilon,1,0
+2014-09-11T19:30:00.000Z,CPH Wolves,mousesports.CS,1,2
+2014-09-11T20:45:00.000Z,Epsilon,Bizounours,2,0
+2014-09-11T21:15:00.000Z,Sweden.CS,Switzerland.CS,1,0
+2014-09-11T21:30:00.000Z,Team LDLC,Titan.CS,0,1
+2014-09-12T02:30:00.000Z,Denial eSports,iBUYPOWER,2,0
+2014-09-12T03:00:00.000Z,Cloud9.CS,Netcode,1,2
+2014-09-12T03:00:00.000Z,SapphireKelownaDotCom,savage,0,2
+2014-09-12T03:15:00.000Z,Justus Pro,eLevate,2,1
+2014-09-14T17:00:00.000Z,CPH Wolves,Titan.CS,1,1
+2014-09-14T19:00:00.000Z,Team LDLC,Epsilon,2,0
+2014-09-14T19:00:00.000Z,Ukraine.CS,Kazakhstan.CS,1,0
+2014-09-14T19:30:00.000Z,Virtus Pro-CS,ESC Gaming,1,1
+2014-09-14T20:30:00.000Z,ESC Gaming,CPH Wolves,0,1
+2014-09-14T20:45:00.000Z,Titan.CS,OveR Gaming,1,0
+2014-09-14T21:30:00.000Z,OneShot,dAT team,1,0
+2014-09-15T03:00:00.000Z,iBUYPOWER,eLevate,0,1
+2014-09-15T03:30:00.000Z,SapphireKelownaDotCom,Netcode,0,1
+2014-09-15T17:00:00.000Z,Virtus Pro-CS,Nostalgie,1,0
+2014-09-15T18:00:00.000Z,OneShot,OveR Gaming,0,1
+2014-09-15T18:15:00.000Z,Virtus Pro-CS,Team Orbit,0,1
+2014-09-15T19:00:00.000Z,7GR,Rasta.B2G,0,2
+2014-09-15T19:00:00.000Z,Team Dignitas.CS,Epsilon,1,0
+2014-09-15T19:00:00.000Z,Titan.CS,OneShot,1,0
+2014-09-15T19:00:00.000Z,Team Infused.CS,thechaps,1,2
+2014-09-15T19:00:00.000Z,4andahalfmen,Job Seekers,2,0
+2014-09-15T19:00:00.000Z,OveR Gaming,fnatic,0,1
+2014-09-15T19:00:00.000Z,mousesports.CS,Team Orbit,1,0
+2014-09-15T20:00:00.000Z,Team Dignitas.CS,OveR Gaming,2,0
+2014-09-15T20:00:00.000Z,mousesports.CS,fnatic,0,1
+2014-09-15T20:00:00.000Z,myXMG,Team Orbit,1,0
+2014-09-15T20:00:00.000Z,Team LDLC,Epsilon,0,1
+2014-09-15T21:00:00.000Z,Team Orbit,Ninjas in Pyjamas,0,1
+2014-09-15T21:00:00.000Z,United Estonia,"Back to Uni, Back to Girls",2,0
+2014-09-15T21:30:00.000Z,mousesports.CS,myXMG,0,1
+2014-09-15T21:45:00.000Z,Titan.CS,fnatic,0,1
+2014-09-15T22:30:00.000Z,Turkey.CS,Belgium.CS,0,1
+2014-09-15T22:30:00.000Z,Epsilon,myXMG,1,0
+2014-09-15T22:45:00.000Z,OveR Gaming,fnatic,0,1
+2014-09-16T03:00:00.000Z,Justus Pro,iBUYPOWER,0,2
+2014-09-16T03:30:00.000Z,Denial eSports,Area 51 Gaming,1,0
+2014-09-16T04:00:00.000Z,Cloud9.CS,Reliable,1,0
+2014-09-16T17:00:00.000Z,CPH Wolves,OneShot,1,0
+2014-09-16T17:00:00.000Z,Poland.CS,France.CS,0,1
+2014-09-16T17:00:00.000Z,3DMAX.CS,HellRaisers,0,1
+2014-09-16T17:00:00.000Z,London Conspiracy.CS,dAT team,1,2
+2014-09-16T17:30:00.000Z,Ninjas in Pyjamas,Team LDLC,0,2
+2014-09-16T18:00:00.000Z,Planetkey Dynamics,HellRaisers,0,1
+2014-09-16T18:00:00.000Z,Epsilon,CPH Wolves,3,2
+2014-09-16T18:00:00.000Z,OneShot,Virtus Pro-CS,0,1
+2014-09-16T19:00:00.000Z,4andahalfmen,thechaps,2,1
+2014-09-16T19:00:00.000Z,United Estonia,Rasta.B2G,2,1
+2014-09-16T19:00:00.000Z,Team Dignitas.CS,Titan.CS,1,0
+2014-09-16T19:00:00.000Z,Virtus Pro-CS,myXMG,1,0
+2014-09-16T19:30:00.000Z,fnatic,dAT team,2,0
+2014-09-16T20:00:00.000Z,Team Dignitas.CS,Titan.CS,1,0
+2014-09-16T21:00:00.000Z,Team LDLC,The Lone Rangers,1,0
+2014-09-16T22:00:00.000Z,myXMG,Team LDLC,0,1
+2014-09-16T22:45:00.000Z,4andahalfmen,United Estonia,0,2
+2014-09-17T03:00:00.000Z,Cloud9.CS,savage,2,0
+2014-09-17T03:30:00.000Z,Denial eSports,Aware Gaming,1,0
+2014-09-17T04:30:00.000Z,Netcode,Area 51 Gaming,1,0
+2014-09-17T17:00:00.000Z,Team Orbit,Nostalgie,1,0
+2014-09-17T17:00:00.000Z,fnatic,Team Alternate.CS,2,0
+2014-09-17T18:00:00.000Z,3DMAX.CS,dAT team,1,0
+2014-09-17T19:00:00.000Z,Team Dignitas.CS,fnatic,0,1
+2014-09-17T19:00:00.000Z,Epsilon,myXMG Female,2,0
+2014-09-17T19:00:00.000Z,Team LDLC,Virtus Pro-CS,1,0
+2014-09-17T19:00:00.000Z,mousesports.CS,Titan.CS,1,0
+2014-09-17T19:15:00.000Z,Planetkey Dynamics,dAT team,0,1
+2014-09-17T20:00:00.000Z,mousesports.CS,Titan.CS,1,0
+2014-09-17T20:00:00.000Z,3DMAX.CS,Planetkey Dynamics,1,0
+2014-09-17T20:00:00.000Z,fnatic,Ninjas in Pyjamas,0,1
+2014-09-17T20:30:00.000Z,Team Dignitas.CS,Virtus Pro-CS,0,1
+2014-09-17T21:15:00.000Z,Epsilon,Team Dignitas.CS,0,1
+2014-09-17T21:30:00.000Z,Titan.CS,Virtus Pro-CS,1,0
+2014-09-17T22:00:00.000Z,HellRaisers,Titan.CS,0,1
+2014-09-18T02:00:00.000Z,Cloud9.CS,Aware Gaming,1,0
+2014-09-18T03:00:00.000Z,savage,Denial eSports,0,1
+2014-09-18T16:00:00.000Z,Virtus Pro-CS,CPH Wolves,1,1
+2014-09-18T17:00:00.000Z,Virtus Pro-CS,mousesports.CS,0,1
+2014-09-18T17:00:00.000Z,ESC Gaming,OneShot,1,0
+2014-09-18T17:00:00.000Z,97club,es4x,2,1
+2014-09-18T18:00:00.000Z,Team Dignitas.CS,OveR Gaming,1,0
+2014-09-18T18:00:00.000Z,Virtus Pro-CS,mousesports.CS,2,1
+2014-09-18T19:00:00.000Z,Team Dignitas.CS,OveR Gaming,1,0
+2014-09-18T19:00:00.000Z,Epsilon,Team LDLC,1,0
+2014-09-18T19:00:00.000Z,HellRaisers,dAT team,1,0
+2014-09-18T19:00:00.000Z,fnatic,Natus Vincere,1,0
+2014-09-18T20:00:00.000Z,Ninjas in Pyjamas,Team Dignitas.CS,0,1
+2014-09-18T20:15:00.000Z,myXMG,CPH Wolves,0,2
+2014-09-18T20:15:00.000Z,fnatic,Epsilon,1,0
+2014-09-18T20:30:00.000Z,London Conspiracy.CS,Epsilon Female,2,0
+2014-09-18T21:00:00.000Z,OveR Gaming,Natus Vincere,1,0
+2014-09-18T21:00:00.000Z,Titan.CS,Virtus Pro-CS,1,0
+2014-09-18T22:00:00.000Z,fnatic,HellRaisers,1,0
+2014-09-18T22:00:00.000Z,Virtus Pro-CS,Epsilon,1,0
+2014-09-19T16:00:00.000Z,Natus Vincere,OneShot,1,0
+2014-09-19T17:00:00.000Z,Natus Vincere,ESC Gaming,1,0
+2014-09-19T18:00:00.000Z,HellRaisers,myXMG,1,0
+2014-09-19T18:30:00.000Z,mousesports.CS,CPH Wolves,0,2
+2014-09-19T19:00:00.000Z,fnatic,Team Dignitas.CS,1,0
+2014-09-19T19:00:00.000Z,The Lone Rangers,myXMG,0,1
+2014-09-19T20:00:00.000Z,Team Dignitas.CS,Natus Vincere,0,1
+2014-09-19T20:00:00.000Z,OveR Gaming,ESC Gaming,1,0
+2014-09-19T20:00:00.000Z,fnatic,Epsilon,1,0
+2014-09-19T20:15:00.000Z,fnatic,Epsilon,2,0
+2014-09-19T21:00:00.000Z,Team Orbit,The Lone Rangers,0,1
+2014-09-19T21:00:00.000Z,Nostalgie,myXMG,0,1
+2014-09-19T21:00:00.000Z,OveR Gaming,mousesports.CS,1,0
+2014-09-19T21:00:00.000Z,Team Dignitas.CS,Natus Vincere,1,0
+2014-09-21T15:00:00.000Z,ESC Gaming,ePlay.eps,1,0
+2014-09-21T16:00:00.000Z,eliminacja,ALSEN,0,1
+2014-09-21T17:00:00.000Z,HAXCON,Black Ravens Ltd,0,1
+2014-09-21T17:45:00.000Z,OveR Gaming,Epsilon,0,1
+2014-09-21T18:00:00.000Z,myXMG,Team Orbit,0,1
+2014-09-21T18:00:00.000Z,Team Dignitas.CS,London Conspiracy.CS,2,1
+2014-09-21T19:00:00.000Z,A-gaming,Team Orbit,0,1
+2014-09-21T19:00:00.000Z,Russia.CS,Latvia.CS,1,0
+2014-09-21T19:00:00.000Z,OveR Gaming,mousesports.CS,0,1
+2014-09-21T20:00:00.000Z,OveR Gaming,Epsilon Female,2,0
+2014-09-21T20:00:00.000Z,dAT team,ESC Gaming,0,1
+2014-09-21T20:15:00.000Z,United Kingdom.CS,Russia.CS,0,1
+2014-09-21T21:30:00.000Z,myXMG,A-gaming,1,0
+2014-09-21T22:00:00.000Z,OveR Gaming,Epsilon,1,0
+2014-09-21T22:00:00.000Z,Ninjas in Pyjamas,myXMG,1,0
+2014-09-22T04:00:00.000Z,SapphireKelownaDotCom,Denial eSports,0,1
+2014-09-22T04:15:00.000Z,iBUYPOWER,Area 51 Gaming,1,0
+2014-09-22T05:00:00.000Z,iBUYPOWER,SapphireKelownaDotCom,1,0
+2014-09-22T17:00:00.000Z,A-gaming,Ninjas in Pyjamas,0,1
+2014-09-22T17:00:00.000Z,Natus Vincere,HellRaisers,1,0
+2014-09-22T17:00:00.000Z,Belgium.CS,Poland.CS,0,1
+2014-09-22T17:00:00.000Z,AMNESIA,noMERCY,0,1
+2014-09-22T18:15:00.000Z,HellRaisers,Team LDLC,0,1
+2014-09-22T18:15:00.000Z,Planetkey Dynamics,Natus Vincere,0,1
+2014-09-22T18:30:00.000Z,London Conspiracy.CS,OveR Gaming,1,2
+2014-09-22T18:30:00.000Z,dAT team,Natus Vincere,0,1
+2014-09-22T19:00:00.000Z,Team Dignitas.CS,mousesports.CS,1,0
+2014-09-22T19:30:00.000Z,Natus Vincere,Titan.CS,1,0
+2014-09-22T20:30:00.000Z,Team Alternate.CS,myXMG Female,2,0
+2014-09-22T21:00:00.000Z,Natus Vincere,mousesports.CS,0,1
+2014-09-22T21:00:00.000Z,ESC Gaming,Titan.CS,0,1
+2014-09-23T18:00:00.000Z,HellRaisers,Ninjas in Pyjamas,0,1
+2014-09-23T19:00:00.000Z,Titan.CS,Natus Vincere,1,0
+2014-09-23T19:00:00.000Z,mousesports.CS,Virtus Pro-CS,1,0
+2014-09-23T19:00:00.000Z,Team LDLC,Ninjas in Pyjamas,1,1
+2014-09-23T20:00:00.000Z,Natus Vincere,mTw.CS,2,0
+2014-09-23T20:00:00.000Z,HellRaisers,A-gaming,1,0
+2014-09-23T20:15:00.000Z,Team Orbit,Team LDLC,0,1
+2014-09-23T20:30:00.000Z,mousesports.CS,Nostalgie,1,0
+2014-09-23T21:00:00.000Z,Kazakhstan.CS,Czech Republic.CS,1,0
+2014-09-23T21:00:00.000Z,The Lone Rangers,A-gaming,1,0
+2014-09-23T22:00:00.000Z,A-gaming,Team LDLC,0,1
+2014-09-23T22:00:00.000Z,3DMAX.CS,Natus Vincere,0,1
+2014-09-23T22:00:00.000Z,Ninjas in Pyjamas,The Lone Rangers,1,0
+2014-09-24T04:00:00.000Z,eLevate,Cloud9.CS,0,1
+2014-09-24T17:00:00.000Z,HellRaisers,Team Property.CS,2,1
+2014-09-24T20:30:00.000Z,fnatic,HellRaisers,2,1
+2014-09-24T23:30:00.000Z,Ninjas in Pyjamas,Team Alternate.CS,1,0
+2014-09-25T03:00:00.000Z,savage,Cloud9.CS,0,1
+2014-09-25T12:30:00.000Z,Titan.CS,Team LDLC,0,1
+2014-09-25T13:45:00.000Z,Ninjas in Pyjamas,Team LDLC,0,1
+2014-09-25T14:45:00.000Z,Team Alternate.CS,Titan.CS,0,1
+2014-09-25T16:00:00.000Z,Ninjas in Pyjamas,Titan.CS,0,1
+2014-09-25T17:15:00.000Z,Natus Vincere,Virtus Pro-CS,0,1
+2014-09-25T18:00:00.000Z,fnatic,3DMAX.CS,1,0
+2014-09-25T19:00:00.000Z,Team Dignitas.CS,CPH Wolves,1,0
+2014-09-25T19:00:00.000Z,Bosnia and Herzegovina.CS,Hungary.CS,0,1
+2014-09-25T19:00:00.000Z,Epsilon,Team Orbit,1,0
+2014-09-25T19:00:00.000Z,OveR Gaming,Virtus Pro-CS,1,0
+2014-09-25T19:45:00.000Z,fnatic,Team Dignitas.CS,1,0
+2014-09-25T20:45:00.000Z,3DMAX.CS,CPH Wolves,1,0
+2014-09-25T22:00:00.000Z,Team Dignitas.CS,3DMAX.CS,0,1
+2014-09-26T12:15:00.000Z,Team LDLC,3DMAX.CS,2,0
+2014-09-26T13:00:00.000Z,HellRaisers,The Lone Rangers,1,0
+2014-09-26T14:00:00.000Z,HellRaisers,Epsilon,1,1
+2014-09-26T15:00:00.000Z,HellRaisers,Team Orbit,1,0
+2014-09-26T15:30:00.000Z,fnatic,Titan.CS,0,2
+2014-09-26T16:00:00.000Z,Natus Vincere,dAT team,1,0
+2014-09-26T17:00:00.000Z,Virtus Pro-CS,dAT team,1,1
+2014-09-26T18:30:00.000Z,CPH Wolves,OveR Gaming,1,0
+2014-09-26T19:00:00.000Z,Team LDLC,Titan.CS,0,2
+2014-09-26T19:30:00.000Z,Natus Vincere,OveR Gaming,1,1
+2014-09-26T20:30:00.000Z,dAT team,CPH Wolves,0,1
+2014-09-26T21:30:00.000Z,Natus Vincere,CPH Wolves,1,0
+2014-09-26T22:30:00.000Z,OveR Gaming,dAT team,1,0
+2014-09-27T17:00:00.000Z,Titan.CS,Virtus Pro-CS,0,1
+2014-09-27T18:00:00.000Z,dAT team,Titan.CS,1,1
+2014-09-27T19:00:00.000Z,The Lone Rangers,Epsilon,1,1
+2014-09-27T20:00:00.000Z,Epsilon,A-gaming,1,0
+2014-09-27T21:00:00.000Z,Ninjas in Pyjamas,Epsilon,0,1
+2014-09-28T15:00:00.000Z,Virtus Pro-CS,HellRaisers,1,0
+2014-09-28T16:00:00.000Z,Finland.CS,Sweden.CS,1,0
+2014-09-28T16:00:00.000Z,Virtus Pro-CS,Ninjas in Pyjamas,1,0
+2014-09-28T16:15:00.000Z,Czech Republic.CS,Netherlands.CS,0,1
+2014-09-28T18:00:00.000Z,ESC Gaming,HAXCON,1,0
+2014-09-28T19:00:00.000Z,ePlay.eps,Black Ravens Ltd,1,0
+2014-09-28T19:00:00.000Z,OveR Gaming,Ninjas in Pyjamas,0,1
+2014-09-28T20:00:00.000Z,Finland.CS,Serbia.CS,0,1
+2014-09-28T21:00:00.000Z,Virtus Pro-CS,The Lone Rangers,1,0
+2014-09-29T16:00:00.000Z,Denmark.CS,Latvia.CS,1,0
+2014-09-29T17:00:00.000Z,Titan.CS,HellRaisers,1,0
+2014-09-29T18:00:00.000Z,CPH Wolves,Team LDLC,0,1
+2014-09-29T19:00:00.000Z,CPH Wolves,Titan.CS,0,1
+2014-09-29T20:15:00.000Z,OveR Gaming,Virtus Pro-CS,0,1
+2014-09-29T21:15:00.000Z,Team LDLC,Ninjas in Pyjamas,2,0
+2014-09-29T22:00:00.000Z,Poland.CS,Turkey.CS,1,0
+2014-09-29T22:00:00.000Z,Serbia.CS,Sweden.CS,0,1
+2014-09-30T19:00:00.000Z,Titan.CS,Virtus Pro-CS,1,0
+2014-09-30T20:00:00.000Z,eliminacja,noMERCY,0,1
+2014-09-30T20:15:00.000Z,Ninjas in Pyjamas,Titan.CS,0,2
+2014-09-30T21:00:00.000Z,Turkey.CS,Norway.CS,0,1
+2014-10-01T17:45:00.000Z,Virtus Pro-CS,Ninjas in Pyjamas,0,1
+2014-10-01T18:00:00.000Z,Team LDLC,CPH Wolves,1,0
+2014-10-01T18:30:00.000Z,Epsilon,HellRaisers,1,0
+2014-10-01T19:00:00.000Z,Black Ravens Ltd,AMNESIA,1,0
+2014-10-01T19:00:00.000Z,Belarus.CS,Norway.CS,0,1
+2014-10-01T19:30:00.000Z,Ninjas in Pyjamas,NO SIR!,1,0
+2014-10-01T20:00:00.000Z,ALSEN,ePlay.eps,1,0
+2014-10-01T20:15:00.000Z,fnatic,Team LDLC,1,0
+2014-10-01T20:45:00.000Z,CPH Wolves,NO SIR!,2,0
+2014-10-01T21:00:00.000Z,Titan.CS,Ninjas in Pyjamas,1,0
+2014-10-01T21:00:00.000Z,HellRaisers,Team LDLC,0,1
+2014-10-01T21:00:00.000Z,noMERCY,HAXCON,1,0
+2014-10-01T22:00:00.000Z,Germany.CS,Sweden.CS,1,1
+2014-10-01T22:30:00.000Z,Epsilon,HellRaisers,0,1
+2014-10-02T02:00:00.000Z,Aware Gaming,savage,1,0
+2014-10-02T03:00:00.000Z,Netcode,Denial eSports,1,0
+2014-10-02T04:00:00.000Z,iBUYPOWER,Cloud9.CS,0,1
+2014-10-02T04:15:00.000Z,iBUYPOWER,Netcode,1,0
+2014-10-02T17:00:00.000Z,Team LDLC,Ninjas in Pyjamas,2,0
+2014-10-02T19:00:00.000Z,fnatic,Titan.CS,1,0
+2014-10-02T19:15:00.000Z,CPH Wolves,Ninjas in Pyjamas,0,2
+2014-10-02T20:00:00.000Z,fnatic,Epsilon,1,0
+2014-10-02T21:00:00.000Z,Ninjas in Pyjamas,Epsilon,1,0
+2014-10-02T22:00:00.000Z,fnatic,Team LDLC,1,0
+2014-10-02T23:00:00.000Z,Natus Vincere,Virtus Pro-CS,2,1
+2014-10-03T02:00:00.000Z,Aware Gaming,Netcode,1,0
+2014-10-03T07:00:00.000Z,myXMG,HellRaisers,1,2
+2014-10-03T23:00:00.000Z,HellRaisers,Natus Vincere,0,2
+2014-10-03T23:00:00.000Z,Gplay,POWERHOUSE,2,0
+2014-10-04T07:00:00.000Z,myXMG,Virtus Pro-CS,0,2
+2014-10-04T13:00:00.000Z,Team Dignitas.CS,Planetkey Dynamics,1,0
+2014-10-04T14:15:00.000Z,PB,ESC Gaming,2,0
+2014-10-04T15:00:00.000Z,mousesports.CS,dope,2,0
+2014-10-04T17:00:00.000Z,Playing-Ducks,3DMAX.CS,0,2
+2014-10-04T18:15:00.000Z,Natus Vincere,mousesports.CS,0,1
+2014-10-04T19:45:00.000Z,Team Dignitas.CS,mousesports.CS,2,0
+2014-10-04T23:00:00.000Z,mousesports.CS,3DMAX.CS,1,2
+2014-10-05T07:00:00.000Z,HellRaisers,Virtus Pro-CS,2,1
+2014-10-05T12:45:00.000Z,Natus Vincere,HellRaisers,3,2
+2014-10-05T14:15:00.000Z,PB,Gplay,0,2
+2014-10-05T16:45:00.000Z,mousesports.CS,PB,2,1
+2014-10-05T19:45:00.000Z,3DMAX.CS,Gplay,2,0
+2014-10-05T20:00:00.000Z,Latvia.CS,Macedonia.CS,0,1
+2014-10-05T20:00:00.000Z,Natus Vincere,mousesports.CS,0,2
+2014-10-06T17:00:00.000Z,Belgium.CS,France.CS,0,1
+2014-10-06T18:00:00.000Z,NOD WEB.Gala,Playing-Ducks,0,1
+2014-10-06T18:00:00.000Z,mTw.CS,EVOPLAY,1,0
+2014-10-06T18:00:00.000Z,PENTA Sports,KILLERFISH eSport e.V.,1,0
+2014-10-06T18:00:00.000Z,Death.Energy,Team Alternate.CS,0,1
+2014-10-06T18:00:00.000Z,DRUCKWELLE eSports e.V.,Planetkey Dynamics,0,1
+2014-10-06T18:00:00.000Z,Black Ravens Ltd,eliminacja,1,0
+2014-10-06T18:00:00.000Z,mousesports.CS,dotpiXels e.V.,1,0
+2014-10-06T18:00:00.000Z,BLUEJAYS,SPÜRHUNDE,1,0
+2014-10-06T18:00:00.000Z,LeiSuRe,Key-Preisvergleich.de,0,1
+2014-10-06T18:00:00.000Z,Team Dignitas.CS,Team LDLC,0,1
+2014-10-06T19:00:00.000Z,ESC Gaming,AMNESIA,1,0
+2014-10-06T19:00:00.000Z,fnatic,HellRaisers,1,0
+2014-10-06T19:00:00.000Z,FaithCS,es4x,2,0
+2014-10-06T19:15:00.000Z,mousesports.CS,Team Alternate.CS,1,0
+2014-10-06T19:15:00.000Z,Key-Preisvergleich.de,Planetkey Dynamics,0,1
+2014-10-06T19:30:00.000Z,mTw.CS,BLUEJAYS,1,0
+2014-10-06T19:30:00.000Z,PENTA Sports,Playing-Ducks,1,0
+2014-10-06T20:00:00.000Z,Ninjas in Pyjamas,Team Dignitas.CS,0,1
+2014-10-06T20:15:00.000Z,mTw.CS,Planetkey Dynamics,0,1
+2014-10-06T20:15:00.000Z,mousesports.CS,PENTA Sports,1,0
+2014-10-06T21:00:00.000Z,mousesports.CS,Planetkey Dynamics,1,0
+2014-10-06T21:15:00.000Z,Titan.CS,Virtus Pro-CS,0,1
+2014-10-06T22:00:00.000Z,Epsilon,Team LDLC,0,1
+2014-10-07T18:00:00.000Z,mousesports.CS,Team Property.CS,3,1
+2014-10-07T18:00:00.000Z,Team Dignitas.CS,Titan.CS,1,0
+2014-10-07T19:00:00.000Z,Nostalgie,dAT team,0,2
+2014-10-07T19:00:00.000Z,Team LDLC,Virtus Pro-CS,1,0
+2014-10-07T19:00:00.000Z,Epsilon,Team Alternate.CS,0,2
+2014-10-07T20:00:00.000Z,fnatic,Ninjas in Pyjamas,1,0
+2014-10-07T21:00:00.000Z,Bosnia and Herzegovina.CS,Ukraine.CS,1,0
+2014-10-07T21:00:00.000Z,Epsilon,Team Dignitas.CS,0,1
+2014-10-07T22:30:00.000Z,HellRaisers,Titan.CS,1,0
+2014-10-08T17:00:00.000Z,fnatic,Team Property.CS,1,0
+2014-10-08T18:15:00.000Z,Epsilon,HellRaisers,0,1
+2014-10-08T19:00:00.000Z,ESC Gaming,Black Ravens Ltd,1,0
+2014-10-08T19:15:00.000Z,Virtus Pro-CS,Epsilon,1,0
+2014-10-08T20:00:00.000Z,Ninjas in Pyjamas,HellRaisers,0,1
+2014-10-08T20:00:00.000Z,Team Property.CS,Epsilon,2,1
+2014-10-08T20:00:00.000Z,ESC Gaming,dAT team,2,1
+2014-10-08T20:30:00.000Z,noMERCY,ALSEN,0,1
+2014-10-08T21:00:00.000Z,fnatic,Team Dignitas.CS,1,0
+2014-10-08T21:00:00.000Z,HAXCON,ePlay.eps,0,1
+2014-10-08T22:00:00.000Z,Team LDLC,Titan.CS,1,0
+2014-10-09T03:00:00.000Z,iBUYPOWER,Denial eSports,1,0
+2014-10-09T17:00:00.000Z,fnatic,HellRaisers,2,0
+2014-10-09T17:00:00.000Z,Team Dignitas.CS,Virtus Pro-CS,0,1
+2014-10-09T18:00:00.000Z,Virtus.Pro.CS,Team Alternate.CS,2,1
+2014-10-09T18:00:00.000Z,Team Dignitas.CS,Titan.CS,0,1
+2014-10-09T19:00:00.000Z,Team LDLC,Ninjas in Pyjamas,1,0
+2014-10-09T19:30:00.000Z,Team Property.CS,HellRaisers,0,2
+2014-10-09T20:00:00.000Z,HellRaisers,Team Dignitas.CS,0,1
+2014-10-09T21:00:00.000Z,Titan.CS,Epsilon,1,0
+2014-10-09T22:00:00.000Z,Denmark.CS,Macedonia.CS,1,0
+2014-10-09T22:00:00.000Z,fnatic,Virtus Pro-CS,0,1
+2014-10-10T15:00:00.000Z,Netcode,iBUYPOWER,0,2
+2014-10-10T18:00:00.000Z,Finland.CS,Portugal.CS,1,0
+2014-10-10T18:45:00.000Z,Denial eSports,Cloud9.CS,0,2
+2014-10-10T19:00:00.000Z,Team Dignitas.CS,mTw.CS,2,0
+2014-10-10T21:30:00.000Z,Belarus.CS,Turkey.CS,1,0
+2014-10-10T21:30:00.000Z,iBUYPOWER,Cloud9.CS,0,2
+2014-10-11T02:00:00.000Z,Netcode,Denial eSports,2,0
+2014-10-11T09:00:00.000Z,TBEB,es4x,0,2
+2014-10-11T10:00:00.000Z,HellRaisers,ACES,2,0
+2014-10-11T12:00:00.000Z,Asus CyberZone,A-gaming,2,0
+2014-10-11T12:00:00.000Z,Art of Cybergame,Nothing Personal,2,1
+2014-10-11T14:00:00.000Z,iBUYPOWER,Netcode,2,0
+2014-10-11T15:00:00.000Z,HellRaisers,es4x,2,0
+2014-10-11T15:00:00.000Z,ACES,TBEB,2,0
+2014-10-11T17:15:00.000Z,Cloud9.CS,iBUYPOWER,1,4
+2014-10-11T18:00:00.000Z,Art of Cybergame,Asus CyberZone,0,2
+2014-10-11T18:00:00.000Z,Nothing Personal,A-gaming,2,1
+2014-10-11T18:00:00.000Z,Kazakhstan.CS,Netherlands.CS,0,1
+2014-10-11T18:15:00.000Z,Titan.CS,Bad Monkey Gaming Female,1,0
+2014-10-11T19:00:00.000Z,Team LDLC,x6tence,2,0
+2014-10-11T19:45:00.000Z,Virtus Pro-CS,myXMG,1,0
+2014-10-12T09:00:00.000Z,Nothing Personal,Art of Cybergame,2,0
+2014-10-12T09:00:00.000Z,ACES,es4x,2,0
+2014-10-12T12:00:00.000Z,HellRaisers,Asus CyberZone,2,0
+2014-10-12T12:15:00.000Z,ACES,Nothing Personal,2,1
+2014-10-12T13:00:00.000Z,Bad Monkey Gaming Female,myXMG,2,0
+2014-10-12T15:00:00.000Z,Asus CyberZone,ACES,2,0
+2014-10-12T16:00:00.000Z,Virtus Pro-CS,Titan.CS,2,0
+2014-10-12T16:00:00.000Z,AMNESIA,eliminacja,1,0
+2014-10-12T17:00:00.000Z,AMNESIA,ALSEN,1,0
+2014-10-12T17:30:00.000Z,HellRaisers,Asus CyberZone,3,2
+2014-10-12T18:00:00.000Z,ePlay.eps,AMNESIA,0,1
+2014-10-12T19:00:00.000Z,Germany.CS,Portugal.CS,0,1
+2014-10-12T19:00:00.000Z,eliminacja,HAXCON,0,1
+2014-10-12T19:00:00.000Z,Bosnia and Herzegovina.CS,Netherlands.CS,0,1
+2014-10-12T19:00:00.000Z,Norway.CS,Belgium.CS,1,0
+2014-10-12T19:00:00.000Z,Bad Monkey Gaming Female,Titan.CS,0,2
+2014-10-12T20:15:00.000Z,Serbia.CS,Germany.CS,0,1
+2014-10-12T20:30:00.000Z,Sweden.CS,Portugal.CS,1,0
+2014-10-12T22:00:00.000Z,France.CS,Turkey.CS,1,0
+2014-10-13T17:00:00.000Z,fnatic,ESC Gaming,3,1
+2014-10-13T18:00:00.000Z,PENTA Sports,NOD WEB.Gala,1,0
+2014-10-13T18:00:00.000Z,mTw.CS,KILLERFISH eSport e.V.,0,1
+2014-10-13T18:00:00.000Z,EVOPLAY,Playing-Ducks,0,1
+2014-10-13T18:00:00.000Z,BLUEJAYS,SPÜRHUNDE,1,0
+2014-10-13T18:00:00.000Z,mousesports.CS,DRUCKWELLE eSports e.V.,1,0
+2014-10-13T18:00:00.000Z,Death.Energy,Team Alternate.CS,0,1
+2014-10-13T18:00:00.000Z,dotpiXels e.V.,Planetkey Dynamics,0,1
+2014-10-13T18:00:00.000Z,Key-Preisvergleich.de,LeiSuRe,1,0
+2014-10-13T19:15:00.000Z,KILLERFISH eSport e.V.,Team Alternate.CS,0,1
+2014-10-13T19:15:00.000Z,Key-Preisvergleich.de,Planetkey Dynamics,0,1
+2014-10-13T19:15:00.000Z,mousesports.CS,BLUEJAYS,1,0
+2014-10-13T19:30:00.000Z,PENTA Sports,Playing-Ducks,1,0
+2014-10-13T20:30:00.000Z,mousesports.CS,PENTA Sports,1,0
+2014-10-13T20:45:00.000Z,Team Alternate.CS,Planetkey Dynamics,0,1
+2014-10-13T21:45:00.000Z,mousesports.CS,Planetkey Dynamics,1,0
+2014-10-14T17:00:00.000Z,Nostalgie,UNNAMED.CS,2,0
+2014-10-14T20:00:00.000Z,Team Dignitas.CS,Ninjas in Pyjamas,2,0
+2014-10-14T20:00:00.000Z,fnatic,CPH Wolves,2,0
+2014-10-15T17:00:00.000Z,Team LDLC,mousesports.CS,2,1
+2014-10-15T18:00:00.000Z,ESC Gaming,ALSEN,1,0
+2014-10-15T19:00:00.000Z,HAXCON,AMNESIA,1,0
+2014-10-15T20:00:00.000Z,Hungary.CS,Ukraine.CS,0,1
+2014-10-15T20:00:00.000Z,fnatic,Titan.CS,2,1
+2014-10-15T21:00:00.000Z,Black Ravens Ltd,noMERCY,1,1
+2014-10-15T21:00:00.000Z,Netherlands.CS,Ukraine.CS,1,0
+2014-10-15T22:00:00.000Z,ePlay.eps,eliminacja,1,0
+2014-10-16T17:00:00.000Z,France.CS,Norway.CS,1,0
+2014-10-16T18:00:00.000Z,Natus Vincere,Isak eSports,1,0
+2014-10-16T18:00:00.000Z,Team LDLC,fnatic,2,1
+2014-10-16T18:00:00.000Z,Belarus.CS,Belgium.CS,1,0
+2014-10-16T21:00:00.000Z,Bosnia and Herzegovina.CS,Czech Republic.CS,1,0
+2014-10-16T21:00:00.000Z,Epsilon,myXMG,1,0
+2014-10-16T21:00:00.000Z,Virtus.Pro.CS,HellRaisers,2,1
+2014-10-17T18:00:00.000Z,Russia.CS,Slovakia.CS,1,0
+2014-10-17T19:00:00.000Z,Belarus.CS,Poland.CS,0,1
+2014-10-17T19:00:00.000Z,Denmark.CS,Slovakia.CS,1,1
+2014-10-17T20:00:00.000Z,Denmark.CS,Russia.CS,1,0
+2014-10-18T12:00:00.000Z,Epsilon,Titan.CS,0,2
+2014-10-18T15:00:00.000Z,Natus Vincere,Team LDLC,0,2
+2014-10-18T18:00:00.000Z,Titan.CS,Team LDLC,0,2
+2014-10-18T23:00:00.000Z,Epsilon,Natus Vincere,0,2
+2014-10-19T14:30:00.000Z,Titan.CS,Natus Vincere,0,2
+2014-10-19T18:00:00.000Z,Team LDLC,Natus Vincere,3,2
+2014-10-19T19:00:00.000Z,Black Ravens Ltd,AMNESIA,1,1
+2014-10-19T20:00:00.000Z,ALSEN,ePlay.eps,1,0
+2014-10-19T21:30:00.000Z,noMERCY,HAXCON,1,0
+2014-10-20T17:00:00.000Z,fnatic,CPH Wolves,3,0
+2014-10-20T18:00:00.000Z,EVOPLAY,Key-Preisvergleich.de,0,1
+2014-10-20T18:00:00.000Z,SpraydowN,PENTA Sports,0,1
+2014-10-20T18:00:00.000Z,SPÜRHUNDE,LeiSuRe,0,1
+2014-10-20T18:00:00.000Z,Team Alternate.CS,dotpiXels e.V.,0,1
+2014-10-20T18:00:00.000Z,mTw.CS,EYES ON U.CS,1,0
+2014-10-20T18:00:00.000Z,BLUEJAYS,NOD WEB.Gala,0,1
+2014-10-20T18:00:00.000Z,DRUCKWELLE eSports e.V.,Playing-Ducks,1,0
+2014-10-20T19:00:00.000Z,eliminacja,ALSEN,1,0
+2014-10-20T19:00:00.000Z,Virtus.Pro.CS,Team Dignitas.CS,1,2
+2014-10-20T19:15:00.000Z,Planetkey Dynamics,LeiSuRe,1,0
+2014-10-20T19:30:00.000Z,dotpiXels e.V.,DRUCKWELLE eSports e.V.,1,0
+2014-10-20T19:30:00.000Z,mTw.CS,Key-Preisvergleich.de,1,0
+2014-10-20T19:30:00.000Z,NOD WEB.Gala,PENTA Sports,0,1
+2014-10-20T20:00:00.000Z,noMERCY,ePlay.eps,1,0
+2014-10-20T20:30:00.000Z,Planetkey Dynamics,dotpiXels e.V.,0,1
+2014-10-20T20:30:00.000Z,mTw.CS,PENTA Sports,0,1
+2014-10-20T21:00:00.000Z,ESC Gaming,noMERCY,1,0
+2014-10-20T21:45:00.000Z,dotpiXels e.V.,PENTA Sports,0,1
+2014-10-21T17:00:00.000Z,Team Dignitas.CS,Virtus.Pro.CS,0,2
+2014-10-21T17:00:00.000Z,dAT team,myXMG,1,2
+2014-10-21T17:00:00.000Z,Team LDLC,AliGon,2,0
+2014-10-21T17:00:00.000Z,3DMAX.CS,Flipsid3 Tactics,1,2
+2014-10-21T17:00:00.000Z,mousesports.CS,Planetkey Dynamics,0,2
+2014-10-21T19:00:00.000Z,CPH Wolves,ESC Gaming,0,2
+2014-10-21T19:00:00.000Z,x6tence,PENTA Sports,0,2
+2014-10-21T19:00:00.000Z,HellRaisers,duttdutt,2,0
+2014-10-21T19:45:00.000Z,London Conspiracy.CS,Team Alternate.CS,1,2
+2014-10-21T20:00:00.000Z,Ninjas in Pyjamas,Epsilon,2,0
+2014-10-21T20:30:00.000Z,Team LDLC,myXMG,2,0
+2014-10-21T21:30:00.000Z,PENTA Sports,HellRaisers,2,0
+2014-10-21T21:30:00.000Z,Flipsid3 Tactics,Planetkey Dynamics,0,2
+2014-10-22T00:30:00.000Z,ESC Gaming,Team Alternate.CS,2,0
+2014-10-22T17:00:00.000Z,Team LDLC,fnatic,2,1
+2014-10-22T18:00:00.000Z,myXMG,Flipsid3 Tactics,2,1
+2014-10-22T18:00:00.000Z,HellRaisers,Team Alternate.CS,2,0
+2014-10-22T21:45:00.000Z,myXMG,HellRaisers,0,2
+2014-10-23T17:00:00.000Z,mousesports.CS,Bad Monkey Gaming Female,2,0
+2014-10-23T23:00:00.000Z,Team LDLC,Cloud9.CS,1,0
+2014-10-24T12:15:00.000Z,Team LDLC,Cloud9.CS,1,0
+2014-10-24T14:15:00.000Z,Team Dignitas.CS,fnatic,0,1
+2014-10-24T14:30:00.000Z,Virtus Pro-CS,Team LDLC,0,1
+2014-10-24T15:15:00.000Z,Team Dignitas.CS,fnatic,0,1
+2014-10-24T15:45:00.000Z,Virtus Pro-CS,Team LDLC,0,1
+2014-10-24T17:00:00.000Z,iBUYPOWER,fnatic,0,1
+2014-10-24T18:00:00.000Z,iBUYPOWER,fnatic,0,1
+2014-10-25T08:15:00.000Z,iBUYPOWER,Team Dignitas.CS,1,0
+2014-10-25T08:15:00.000Z,Virtus Pro-CS,Cloud9.CS,0,1
+2014-10-25T09:30:00.000Z,iBUYPOWER,Team Dignitas.CS,0,1
+2014-10-25T09:45:00.000Z,Virtus Pro-CS,Cloud9.CS,1,0
+2014-10-25T12:00:00.000Z,Team LDLC,iBUYPOWER,0,2
+2014-10-25T16:00:00.000Z,fnatic,Virtus.Pro.CS,2,0
+2014-10-25T23:30:00.000Z,iBUYPOWER,fnatic,1,3
+2014-10-27T17:00:00.000Z,Titan.CS,Natus Vincere,1,2
+2014-10-27T18:00:00.000Z,CPH Wolves,HellRaisers,2,1
+2014-10-27T18:00:00.000Z,dotpiXels e.V.,KILLERFISH eSport e.V.,1,0
+2014-10-27T18:00:00.000Z,LeiSuRe,BLUEJAYS,0,1
+2014-10-27T18:00:00.000Z,EVOPLAY,Playing-Ducks,0,1
+2014-10-27T18:00:00.000Z,mTw.CS,SpraydowN,1,0
+2014-10-27T18:00:00.000Z,Key-Preisvergleich.de,NOD WEB.Gala,1,0
+2014-10-27T18:00:00.000Z,Planetkey Dynamics,EnRo GRIFFINS,1,0
+2014-10-27T18:00:00.000Z,DRUCKWELLE eSports e.V.,Team Alternate.CS,1,0
+2014-10-27T18:00:00.000Z,EYES ON U.CS,PENTA Sports,0,1
+2014-10-27T19:15:00.000Z,mTw.CS,DRUCKWELLE eSports e.V.,1,0
+2014-10-27T19:15:00.000Z,dotpiXels e.V.,Playing-Ducks,1,0
+2014-10-27T19:30:00.000Z,Planetkey Dynamics,BLUEJAYS,1,0
+2014-10-27T19:45:00.000Z,Key-Preisvergleich.de,PENTA Sports,0,1
+2014-10-27T20:30:00.000Z,Natus Vincere,mousesports.CS,2,1
+2014-10-27T20:45:00.000Z,Planetkey Dynamics,dotpiXels e.V.,1,0
+2014-10-27T20:45:00.000Z,mTw.CS,PENTA Sports,0,1
+2014-10-27T21:45:00.000Z,Planetkey Dynamics,PENTA Sports,1,0
+2014-10-28T17:00:00.000Z,Team Dignitas.CS,Natus Vincere,2,0
+2014-10-28T19:00:00.000Z,CPH Wolves,Ninjas in Pyjamas,1,2
+2014-10-28T19:00:00.000Z,es4x,dAT team,0,2
+2014-10-28T20:00:00.000Z,fnatic,Ninjas in Pyjamas,2,1
+2014-10-28T21:00:00.000Z,Finland.CS,Belarus.CS,2,1
+2014-10-29T08:30:00.000Z,Team LDLC,Platinium,1,0
+2014-10-29T08:30:00.000Z,Titan.CS,Infernal Gamerz,1,0
+2014-10-29T10:15:00.000Z,Titan.CS,Team LDLC,1,0
+2014-10-29T10:15:00.000Z,Infernal Gamerz,Platinium,0,1
+2014-10-29T13:00:00.000Z,Team LDLC,Platinium,1,0
+2014-10-29T15:00:00.000Z,Titan.CS,Team LDLC,2,1
+2014-10-29T21:00:00.000Z,HAXCON,Black Ravens Ltd,0,1
+2014-10-29T23:00:00.000Z,k1ck eSports Club,London Conspiracy.CS,1,0
+2014-10-29T23:00:00.000Z,fnatic,Energy eSports,1,0
+2014-10-29T23:30:00.000Z,Virtus.Pro.CS,Cloud9.CS,0,1
+2014-10-29T23:30:00.000Z,fnatic,Pow,1,0
+2014-10-29T23:30:00.000Z,k1ck eSports Club,Energy eSports,1,0
+2014-10-29T23:30:00.000Z,London Conspiracy.CS,Natus Vincere,0,1
+2014-10-29T23:30:00.000Z,AlienTech,Team LDLC,0,1
+2014-10-29T23:30:00.000Z,Planetkey Dynamics,Virtual Impact,1,0
+2014-10-29T23:45:00.000Z,Bad Monkey Gaming Female,Ubinited,1,0
+2014-10-29T23:45:00.000Z,Reason Gaming Female,myXMG Female,1,0
+2014-10-30T08:30:00.000Z,Cloud9.CS,Planetkey Dynamics,1,0
+2014-10-30T08:30:00.000Z,Team LDLC,Virtual Impact,1,0
+2014-10-30T08:30:00.000Z,Natus Vincere,k1ck eSports Club,1,0
+2014-10-30T09:30:00.000Z,Ubinited,Reason Gaming Female,1,0
+2014-10-30T09:30:00.000Z,Virtus.Pro.CS,AlienTech,1,0
+2014-10-30T09:30:00.000Z,fnatic,London Conspiracy.CS,1,0
+2014-10-30T09:30:00.000Z,Bad Monkey Gaming Female,myXMG Female,1,0
+2014-10-30T09:30:00.000Z,Pow,Energy eSports,1,0
+2014-10-30T10:30:00.000Z,Cloud9.CS,AlienTech,1,0
+2014-10-30T10:30:00.000Z,Planetkey Dynamics,Team LDLC,0,1
+2014-10-30T10:30:00.000Z,Virtus.Pro.CS,Virtual Impact,1,0
+2014-10-30T10:30:00.000Z,Natus Vincere,Pow,1,0
+2014-10-30T10:45:00.000Z,Bad Monkey Gaming Female,Reason Gaming Female,0,1
+2014-10-30T10:45:00.000Z,myXMG Female,Ubinited,1,0
+2014-10-30T14:00:00.000Z,London Conspiracy.CS,Pow,1,0
+2014-10-30T14:00:00.000Z,fnatic,k1ck eSports Club,1,0
+2014-10-30T14:00:00.000Z,Energy eSports,Natus Vincere,0,1
+2014-10-30T14:30:00.000Z,3DMAX Female,Team Karma,1,0
+2014-10-30T14:30:00.000Z,Team ALTERNATE Female,ACES Female,0,1
+2014-10-30T15:00:00.000Z,AlienTech,Planetkey Dynamics,0,1
+2014-10-30T15:00:00.000Z,Virtual Impact,Cloud9.CS,0,1
+2014-10-30T15:00:00.000Z,Virtus.Pro.CS,Team LDLC,1,0
+2014-10-30T15:45:00.000Z,ACES Female,3DMAX Female,0,1
+2014-10-30T16:00:00.000Z,Energy eSports,London Conspiracy.CS,0,1
+2014-10-30T16:00:00.000Z,fnatic,Natus Vincere,0,1
+2014-10-30T16:00:00.000Z,Pow,k1ck eSports Club,0,1
+2014-10-30T17:00:00.000Z,Team ALTERNATE Female,3DMAX Female,0,1
+2014-10-30T17:00:00.000Z,Virtual Impact,AlienTech,0,1
+2014-10-30T17:00:00.000Z,Virtus.Pro.CS,Planetkey Dynamics,1,0
+2014-10-30T17:00:00.000Z,Team LDLC,Cloud9.CS,1,0
+2014-10-30T17:00:00.000Z,Team Karma,ACES Female,1,0
+2014-10-30T23:45:00.000Z,Ninjas in Pyjamas,Platinium,0,1
+2014-10-30T23:45:00.000Z,Bad Monkey Gaming Female,3DMAX Female,1,2
+2014-10-30T23:45:00.000Z,3DMAX.CS,mousesports.CS,0,1
+2014-10-30T23:45:00.000Z,iBUYPOWER,Gplay,1,0
+2014-10-30T23:45:00.000Z,Team Dignitas.CS,Cipangu.GO,1,0
+2014-10-31T02:30:00.000Z,Mythic,Nutty Glock Train,2,0
+2014-10-31T08:30:00.000Z,Platinium,HellRaisers,0,1
+2014-10-31T08:30:00.000Z,Titan.CS,Team KaBuM,1,0
+2014-10-31T08:30:00.000Z,Team Dignitas.CS,3DMAX.CS,1,0
+2014-10-31T09:30:00.000Z,CPH Wolves,Ninjas in Pyjamas,0,1
+2014-10-31T09:30:00.000Z,Cipangu.GO,iBUYPOWER,0,1
+2014-10-31T09:30:00.000Z,mousesports.CS,Gplay,1,0
+2014-10-31T09:30:00.000Z,Reason Gaming Female,Team Karma,1,2
+2014-10-31T10:30:00.000Z,3DMAX.CS,Cipangu.GO,1,0
+2014-10-31T10:30:00.000Z,Team Dignitas.CS,Gplay,1,0
+2014-10-31T10:30:00.000Z,Titan.CS,Platinium,1,0
+2014-10-31T10:30:00.000Z,mousesports.CS,iBUYPOWER,0,1
+2014-10-31T10:45:00.000Z,Team KaBuM,Ninjas in Pyjamas,0,1
+2014-10-31T10:45:00.000Z,HellRaisers,CPH Wolves,0,1
+2014-10-31T12:00:00.000Z,Team KaBuM,CPH Wolves,0,1
+2014-10-31T12:00:00.000Z,Titan.CS,HellRaisers,0,1
+2014-10-31T13:30:00.000Z,Ninjas in Pyjamas,HellRaisers,0,1
+2014-10-31T13:30:00.000Z,Platinium,Team KaBuM,0,1
+2014-10-31T13:30:00.000Z,Titan.CS,CPH Wolves,1,0
+2014-10-31T14:30:00.000Z,Gplay,Cipangu.GO,1,0
+2014-10-31T14:30:00.000Z,iBUYPOWER,3DMAX.CS,1,0
+2014-10-31T14:30:00.000Z,Team Dignitas.CS,mousesports.CS,1,0
+2014-10-31T15:30:00.000Z,Reason Gaming Female,Bad Monkey Gaming Female,0,2
+2014-10-31T15:30:00.000Z,CPH Wolves,Platinium,1,0
+2014-10-31T15:30:00.000Z,Titan.CS,Ninjas in Pyjamas,1,0
+2014-10-31T15:30:00.000Z,HellRaisers,Team KaBuM,1,0
+2014-10-31T16:30:00.000Z,Gplay,3DMAX.CS,1,0
+2014-10-31T16:30:00.000Z,Team Dignitas.CS,iBUYPOWER,1,0
+2014-10-31T16:30:00.000Z,Cipangu.GO,mousesports.CS,0,1
+2014-10-31T23:00:00.000Z,HellRaisers,fnatic,0,2
+2014-10-31T23:00:00.000Z,Team Dignitas.CS,Virtus.Pro.CS,1,2
+2014-11-01T08:30:00.000Z,Team LDLC,Titan.CS,2,0
+2014-11-01T08:30:00.000Z,Team Karma,3DMAX Female,0,2
+2014-11-01T08:30:00.000Z,Natus Vincere,iBUYPOWER,2,0
+2014-11-01T14:30:00.000Z,Virtus.Pro.CS,fnatic,0,2
+2014-11-01T15:00:00.000Z,Team LDLC,Natus Vincere,2,0
+2014-11-02T09:30:00.000Z,Natus Vincere,Virtus.Pro.CS,1,2
+2014-11-02T14:00:00.000Z,Team LDLC,fnatic,0,2
+2014-11-03T03:00:00.000Z,DreamTanks,Adapt,0,2
+2014-11-03T15:00:00.000Z,Denmark.CS,Kazakhstan.CS,2,0
+2014-11-03T18:00:00.000Z,Serbia.CS,Poland.CS,1,2
+2014-11-03T21:00:00.000Z,Slovakia.CS,Bosnia and Herzegovina.CS,2,0
+2014-11-04T02:00:00.000Z,Enigma Gaming,Animosity CS,2,0
+2014-11-04T03:30:00.000Z,Mythic,Anonymous5,2,0
+2014-11-04T16:00:00.000Z,97club,Nostalgie,2,0
+2014-11-04T18:00:00.000Z,Team Dignitas.CS,Team LDLC,1,2
+2014-11-04T18:00:00.000Z,Russia.CS,Ukraine.CS,2,0
+2014-11-04T21:30:00.000Z,Germany.CS,France.CS,0,2
+2014-11-05T01:00:00.000Z,xile,HEAT,1,0
+2014-11-05T02:00:00.000Z,Anonymous5,WOOSAH,0,1
+2014-11-05T15:00:00.000Z,Macedonia.CS,Netherlands.CS,0,2
+2014-11-05T18:00:00.000Z,Sweden.CS,Norway.CS,2,1
+2014-11-05T21:00:00.000Z,Denmark.CS,Poland.CS,2,0
+2014-11-06T02:00:00.000Z,Mythic,Tempo Gaming,2,1
+2014-11-06T16:00:00.000Z,Slovakia.CS,Finland.CS,0,2
+2014-11-07T19:30:00.000Z,Netherlands.CS,Sweden.CS,0,2
+2014-11-08T12:00:00.000Z,fnatic,Team Dignitas.CS,2,0
+2014-11-08T16:00:00.000Z,Team LDLC,Virtus.Pro.CS,2,1
+2014-11-08T17:00:00.000Z,dAT team,es4x,3,0
+2014-11-08T20:00:00.000Z,fnatic,Virtus.Pro.CS,2,0
+2014-11-08T21:00:00.000Z,noMERCY,Vexstar,0,2
+2014-11-09T02:00:00.000Z,Tempo Gaming,xile,0,1
+2014-11-09T16:00:00.000Z,Team LDLC,fnatic,1,3
+2014-11-09T16:00:00.000Z,ALSEN,HAXCON,1,0
+2014-11-09T17:00:00.000Z,noMERCY,ePlay.eps,0,1
+2014-11-10T01:00:00.000Z,iBUYPOWER,Denial eSports,3,1
+2014-11-10T03:00:00.000Z,Mythic,Adapt,2,1
+2014-11-10T18:00:00.000Z,Planetkey Dynamics,Key-Preisvergleich.de,1,0
+2014-11-10T18:00:00.000Z,mTw.CS,Playing-Ducks,0,1
+2014-11-10T19:00:00.000Z,PENTA Sports,London Conspiracy.CS,2,1
+2014-11-10T19:30:00.000Z,Planetkey Dynamics,Playing-Ducks,1,0
+2014-11-10T20:45:00.000Z,Key-Preisvergleich.de,mTw.CS,1,0
+2014-11-10T21:45:00.000Z,Playing-Ducks,Key-Preisvergleich.de,0,1
+2014-11-11T15:00:00.000Z,Russia.CS,France.CS,0,2
+2014-11-11T17:00:00.000Z,Ninjas in Pyjamas,Planetkey Dynamics,1,0
+2014-11-11T18:00:00.000Z,mousesports.CS,dotpiXels e.V.,1,0
+2014-11-11T18:00:00.000Z,Cloud9.CS,Epsilon,0,1
+2014-11-11T18:00:00.000Z,PENTA Sports,Team Alternate.CS,1,0
+2014-11-11T19:30:00.000Z,mousesports.CS,PENTA Sports,1,0
+2014-11-11T19:45:00.000Z,Ninjas in Pyjamas,Epsilon,2,0
+2014-11-11T20:15:00.000Z,dotpiXels e.V.,Team Alternate.CS,0,1
+2014-11-11T21:00:00.000Z,PENTA Sports,Team Alternate.CS,0,1
+2014-11-12T02:00:00.000Z,Adapt,xile,0,2
+2014-11-12T17:00:00.000Z,Planetkey Dynamics,Cloud9.CS,0,2
+2014-11-12T19:30:00.000Z,Epsilon,Cloud9.CS,0,2
+2014-11-13T02:30:00.000Z,Mythic,xile,0,2
+2014-11-13T04:45:00.000Z,Mythic,xile,1,2
+2014-11-13T17:00:00.000Z,Virtus.Pro.CS,London Conspiracy.CS,0,1
+2014-11-13T18:30:00.000Z,Titan.CS,mousesports.CS,0,1
+2014-11-13T20:00:00.000Z,Virtus.Pro.CS,Titan.CS,2,0
+2014-11-14T17:00:00.000Z,London Conspiracy.CS,mousesports.CS,0,2
+2014-11-14T19:00:00.000Z,mousesports.CS,PENTA Sports,2,0
+2014-11-14T21:00:00.000Z,London Conspiracy.CS,Virtus.Pro.CS,0,2
+2014-11-15T14:30:00.000Z,k1ck eSports Club,mousesports.CS,0,2
+2014-11-15T16:00:00.000Z,dAT team,CPH Wolves,0,2
+2014-11-15T19:00:00.000Z,mousesports.CS,CPH Wolves,2,0
+2014-11-16T14:00:00.000Z,Ninjas in Pyjamas,Virtus.Pro.CS,0,2
+2014-11-16T17:00:00.000Z,Cloud9.CS,mousesports.CS,2,0
+2014-11-16T19:30:00.000Z,Virtus.Pro.CS,Cloud9.CS,2,0
+2014-11-17T18:00:00.000Z,Virtus.Pro.CS,mousesports.CS,0,2
