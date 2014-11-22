@@ -6,7 +6,8 @@
   "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
   "private": true,
   "scripts": {
-    "fetch": "fetch-matches"
+    "fetch": "fetch-matches",
+    "tablify": "tablify < standings.csv"
   },
   "dependencies": {
     "@csgo-elo/fetch-matches": "file:fetch-matches",
