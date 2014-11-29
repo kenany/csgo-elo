@@ -12,6 +12,7 @@
     "each-series": "^1.0.0",
     "gosugamers-matches": "^1.0.1",
     "inherits": "^2.0.1",
+    "lodash.isnan": "^2.4.1",
     "minimist": "^1.1.0",
     "through": "^2.3.6"
   }
