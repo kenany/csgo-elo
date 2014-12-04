@@ -1180,6 +1180,7 @@ date,team1,team2,result1,result2,score1,score2
 2014-11-27T15:45:00.000Z,fnatic,Cloud9.CS,1,0,16,5
 2014-11-27T17:30:00.000Z,Team LDLC,ESC Gaming,1,0,16,4
 2014-11-27T17:30:00.000Z,Virtus.Pro.CS,myXMG,1,0,16,2
+2014-11-27T17:30:00.000Z,Team LDLC,ESC Gaming,1,0,16,4
 2014-11-27T18:45:00.000Z,Natus Vincere,Flipsid3 Tactics,1,0,16,8
 2014-11-27T19:00:00.000Z,Ninjas in Pyjamas,Planetkey Dynamics,1,0,16,2
 2014-11-27T19:30:00.000Z,Virtus.Pro.CS,Natus Vincere,1,0,16,2
@@ -1200,3 +1201,6 @@ date,team1,team2,result1,result2,score1,score2
 2014-12-02T18:15:00.000Z,Gplay,A-gaming,3,1,61,47
 2014-12-03T01:00:00.000Z,Torqued,SapphireKelownaDotCom,2,0,32,10
 2014-12-03T18:00:00.000Z,EnRo GRIFFINS.EMS,VOLGARE,0,2,18,32
+2014-12-03T18:00:00.000Z,Flipsid3 Tactics,PENTA Sports,1,3,49,60
+2014-12-04T18:00:00.000Z,Epsilon Female,PENTA Female,2,1,51,37
+2014-12-04T18:30:00.000Z,EasyFix.it,Gplay,0,2,15,32
