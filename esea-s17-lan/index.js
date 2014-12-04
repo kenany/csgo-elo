@@ -3,7 +3,7 @@ var random = require('alea-random');
 
 var games = [
   ['Titan.CS', 'Denial eSports'],
-  ['Fnatic', 'eLevate'],
+  ['fnatic', 'eLevate'],
   ['Virtus.Pro.CS', 'iBUYPOWER'],
   ['mousesports.CS', 'Cloud9.CS']
 ];
