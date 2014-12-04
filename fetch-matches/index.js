@@ -18,7 +18,7 @@ function FetchMatchesStream(pages) {
   var allMatches = [];
 
   eachAsync(pages, function(page, _, done) {
-    getMatches(page, function(error, matches) {
+    getMatches(page, 'counterstrike', function(error, matches) {
       if (error) {
         done(error);
         return;
