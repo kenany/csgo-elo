@@ -1,0 +1,15 @@
+{
+  "name": "@csgo-elo/esea-s17-lan",
+  "version": "0.0.0",
+  "description": "Predict the winner of ESEA S17 LAN",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "bin": {
+    "esea-s17-lan": "bin/cmd.js"
+  },
+  "private": true,
+  "dependencies": {
+    "alea-random": "^1.1.1",
+    "arpad": "^0.1.0",
+    "csv-parser": "^1.4.6"
+  }
+}
