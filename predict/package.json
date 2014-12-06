@@ -1,0 +1,15 @@
+{
+  "name": "@csgo-elo/predict",
+  "version": "0.0.0",
+  "description": "Get odds of a single match",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "bin": {
+    "predict": "bin/cmd.js"
+  },
+  "private": true,
+  "dependencies": {
+    "arpad": "^0.1.0",
+    "csv-parser": "^1.4.6",
+    "minimist": "^1.1.0"
+  }
+}

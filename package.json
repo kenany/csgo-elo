@@ -8,11 +8,13 @@
   "scripts": {
     "esea-s17-lan": "esea-s17-lan < standings.csv",
     "fetch": "fetch-matches",
+    "predict": "predict < standings.csv",
     "tablify": "tablify < standings.csv"
   },
   "dependencies": {
     "@csgo-elo/esea-s17-lan": "file:esea-s17-lan",
     "@csgo-elo/fetch-matches": "file:fetch-matches",
+    "@csgo-elo/predict": "file:predict",
     "@csgo-elo/tablify": "file:tablify"
   }
 }
