@@ -30,6 +30,19 @@ process.stdin
       row.team2 = 'Virtus.Pro.CS';
     }
 
+    // Two names for LunatiK on GosuGamers:
+    //
+    //   - LunatiK
+    //   - LunatiK eSports
+    //
+    // Go with the former.
+    if (row.team1 === 'LunatiK eSports') {
+      row.team1 = 'LunatiK';
+    }
+    else if (row.team2 === 'LunatiK eSports') {
+      row.team2 = 'LunatiK';
+    }
+
     // compLexity Gaming is basically Cloud9 now.
     if (row.team1 === 'compLexity Gaming') {
       row.team1 = 'Cloud9.CS';
