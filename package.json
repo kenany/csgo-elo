@@ -11,7 +11,7 @@
     "predict": "predict < standings.csv",
     "tablify": "tablify < standings.csv"
   },
-  "dependencies": {
+  "devDependencies": {
     "@csgo-elo/esea-s17-lan": "file:esea-s17-lan",
     "@csgo-elo/fetch-matches": "file:fetch-matches",
     "@csgo-elo/predict": "file:predict",
