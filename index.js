@@ -17,18 +17,15 @@ process.stdin
   .on('data', function(row) {
 
     // For some reason, there are two names for Virtus Pro on GosuGamers:
+    //
     //   - Virtus.Pro.CS
     //   - Virtus Pro-CS
     //
     // The latter of which only appears in some of the earlier games, so perhaps
     // there was a name change. Regardless, clicking both teams leads to the
     // same page: Virtus.Pro.CS
-    if (row.team1 === 'Virtus Pro-CS') {
-      row.team1 = 'Virtus.Pro.CS';
-    }
-    else if (row.team2 === 'Virtus Pro-CS') {
-      row.team2 = 'Virtus.Pro.CS';
-    }
+    row.team1 = row.team1.replace('Virtus Pro-CS', 'Virtus.Pro.CS');
+    row.team2 = row.team2.replace('Virtus Pro-CS', 'Virtus.Pro.CS');
 
     // Two names for LunatiK on GosuGamers:
     //
@@ -36,20 +33,12 @@ process.stdin
     //   - LunatiK eSports
     //
     // Go with the former.
-    if (row.team1 === 'LunatiK eSports') {
-      row.team1 = 'LunatiK';
-    }
-    else if (row.team2 === 'LunatiK eSports') {
-      row.team2 = 'LunatiK';
-    }
+    row.team1 = row.team1.replace('LunatiK eSports', 'LunatiK');
+    row.team2 = row.team2.replace('LunatiK eSports', 'LunatiK');
 
     // compLexity Gaming is basically Cloud9 now.
-    if (row.team1 === 'compLexity Gaming') {
-      row.team1 = 'Cloud9.CS';
-    }
-    else if (row.team2 === 'compLexity Gaming') {
-      row.team2 = 'Cloud9.CS';
-    }
+    row.team1 = row.team1.replace('compLexity Gaming', 'Cloud9.CS');
+    row.team2 = row.team2.replace('compLexity Gaming', 'Cloud9.CS');
 
     // If either of these teams have not been seen yet, create entries for them.
     if (!teams[row.team1]) {
