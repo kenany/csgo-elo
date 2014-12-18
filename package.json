@@ -15,6 +15,7 @@
     "arpad": "^0.1.0",
     "csv-parser": "^1.4.6",
     "csv-write-stream": "^0.3.0",
+    "glicko2": "^0.7.4",
     "graceful-fs": "^3.0.5",
     "lodash.foreachright": "^2.4.1",
     "lodash.pairs": "^2.4.1",
