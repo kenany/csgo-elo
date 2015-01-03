@@ -1330,3 +1330,5 @@ date,team1,team2,result1,result2,score1,score2
 2014-12-31T04:15:00.000Z,Rhythm,Torqued,0,1,7,16
 2015-01-02T17:00:00.000Z,Gplay,VOLGARE,2,1,45,33
 2015-01-02T20:15:00.000Z,aimface,myRevenge,1,2,32,39
+2015-01-03T17:00:00.000Z,Gplay,myRevenge,2,1,34,32
+2015-01-03T20:00:00.000Z,VOLGARE,aimface,0,2,13,32
