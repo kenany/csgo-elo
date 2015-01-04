@@ -20,7 +20,8 @@ var ALIASES = {
   'Virtus.Pro.CS': 'Virtus.Pro',
   'LunatiK eSports': 'LunatiK',
   'compLexity Gaming': 'Cloud9',
-  'Cloud9.CS': 'Cloud9'
+  'Cloud9.CS': 'Cloud9',
+  'Team Dignitas.CS': 'Team Dignitas'
 };
 
 process.stdin
