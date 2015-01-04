@@ -17,6 +17,7 @@ var matches = 0;
 
 var ALIASES = {
   'Virtus Pro-CS': 'Virtus.Pro',
+  'Virtus.Pro.CS': 'Virtus.Pro',
   'LunatiK eSports': 'LunatiK',
   'compLexity Gaming': 'Cloud9'
 };
