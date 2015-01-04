@@ -12,33 +12,25 @@ var teams = {};
 var changes = {};
 var margins = {};
 
+var correct = 0;
+var matches = 0;
+
+var ALIASES = {
+  'Virtus Pro-CS': 'Virtus.Pro',
+  'LunatiK eSports': 'LunatiK',
+  'compLexity Gaming': 'Cloud9'
+};
+
 process.stdin
   .pipe(csv())
   .on('data', function(row) {
+    if (ALIASES[row.team1]) {
+      row.team1 = ALIASES[row.team1];
+    }
 
-    // For some reason, there are two names for Virtus Pro on GosuGamers:
-    //
-    //   - Virtus.Pro.CS
-    //   - Virtus Pro-CS
-    //
-    // The latter of which only appears in some of the earlier games, so perhaps
-    // there was a name change. Regardless, clicking both teams leads to the
-    // same page: Virtus.Pro.CS
-    row.team1 = row.team1.replace('Virtus Pro-CS', 'Virtus.Pro.CS');
-    row.team2 = row.team2.replace('Virtus Pro-CS', 'Virtus.Pro.CS');
-
-    // Two names for LunatiK on GosuGamers:
-    //
-    //   - LunatiK
-    //   - LunatiK eSports
-    //
-    // Go with the former.
-    row.team1 = row.team1.replace('LunatiK eSports', 'LunatiK');
-    row.team2 = row.team2.replace('LunatiK eSports', 'LunatiK');
-
-    // compLexity Gaming is basically Cloud9 now.
-    row.team1 = row.team1.replace('compLexity Gaming', 'Cloud9.CS');
-    row.team2 = row.team2.replace('compLexity Gaming', 'Cloud9.CS');
+    if (ALIASES[row.team2]) {
+      row.team2 = ALIASES[row.team2];
+    }
 
     // If either of these teams have not been seen yet, create entries for them.
     if (!teams[row.team1]) {
@@ -78,10 +70,18 @@ process.stdin
     var team1new;
     var team2new;
     if (result1 > result2) {
+      if (team1odds > team2odds) {
+        correct++;
+      }
+
       team1new = elo.newRating(team1odds, 1, team1rating);
       team2new = elo.newRating(team2odds, 0, team2rating);
     }
     else {
+      if (team2odds > team1odds) {
+        correct++;
+      }
+
       team1new = elo.newRating(team1odds, 0, team1rating);
       team2new = elo.newRating(team2odds, 1, team2rating);
     }
@@ -94,9 +94,11 @@ process.stdin
 
     changes[row.team1].push([row.date, team1new, margins[row.team1]]);
     changes[row.team2].push([row.date, team2new, margins[row.team2]]);
+    matches++;
   })
   .on('end', function() {
     console.log();
+
     var rankings = sortBy(pairs(teams), function(team) {
       return team[1];
     });
@@ -122,4 +124,7 @@ process.stdin
       });
       writer.end();
     });
+
+    var success = 100 * correct / matches;
+    console.log(success);
   });
