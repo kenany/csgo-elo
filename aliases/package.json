@@ -1,0 +1,7 @@
+{
+  "name": "@csgo-elo/aliases",
+  "version": "0.0.0",
+  "description": "Team aliases",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "private": true
+}

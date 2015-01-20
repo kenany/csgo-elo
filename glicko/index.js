@@ -1,13 +1,7 @@
 var forEach = require('lodash.foreach');
 var Glicko = require('glicko2').Glicko2;
 
-var ALIASES = {
-  'Virtus Pro-CS': 'Virtus.Pro',
-  'Virtus.Pro.CS': 'Virtus.Pro',
-  'LunatiK eSports': 'LunatiK',
-  'Cloud9.CS': 'Cloud9',
-  'Team Dignitas.CS': 'Team Dignitas'
-};
+var ALIASES = require('@csgo-elo/aliases');
 
 function calculate(matches) {
   var glicko = new Glicko();
