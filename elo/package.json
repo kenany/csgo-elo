@@ -1,0 +1,11 @@
+{
+  "name": "@csgo-elo/elo",
+  "version": "0.0.0",
+  "description": "Get Elo ratings",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "private": true,
+  "dependencies": {
+    "arpad": "^0.1.0",
+    "lodash.foreach": "^2.4.1"
+  }
+}

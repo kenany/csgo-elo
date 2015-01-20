@@ -9,7 +9,7 @@
     "dev": "linklocal link -r && linklocal list -r | bulk -c 'npm install'",
     "esea-s17-lan": "esea-s17-lan < standings.csv",
     "fetch": "fetch-matches",
-    "predict": "predict < standings.csv",
+    "predict": "predict < matches.csv",
     "tablify": "tablify < standings.csv"
   },
   "dependencies": {

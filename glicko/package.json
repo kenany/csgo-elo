@@ -1,0 +1,11 @@
+{
+  "name": "@csgo-elo/glicko",
+  "version": "0.0.0",
+  "description": "Get Glicko ratings",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "private": true,
+  "dependencies": {
+    "glicko2": "^0.7.4",
+    "lodash.foreach": "^2.4.1"
+  }
+}

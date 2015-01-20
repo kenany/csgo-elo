@@ -8,8 +8,11 @@
   },
   "private": true,
   "dependencies": {
-    "arpad": "^0.1.0",
+    "@csgo-elo/elo": "file:../elo",
+    "@csgo-elo/glicko": "file:../glicko",
     "csv-parser": "^1.4.6",
-    "minimist": "^1.1.0"
+    "minimist": "^1.1.0",
+    "printf": "^0.2.0",
+    "text-table": "^0.2.0"
   }
 }

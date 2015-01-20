@@ -2,18 +2,26 @@
 
 var csv = require('csv-parser');
 var minimist = require('minimist');
+var printf = require('printf');
+var table = require('text-table');
 
 var predict = require('../')
 
 var argv = minimist(process.argv.slice(2));
 
-var teams = {};
+var matches = [];
 
 process.stdin
   .pipe(csv())
   .on('data', function(row) {
-    teams[row.team] = row.elo;
+    matches.push(row);
   })
   .on('end', function() {
-    console.log('%d\%', predict(teams[argv._[0]], teams[argv._[1]]) * 100);
+    var infer = predict(argv._[0], argv._[1], matches);
+    var t = table([
+      ['', argv._[0], argv._[1]],
+      ['Elo', printf('%.2f\%', infer.elo * 100), printf('%.2f\%', 100 - infer.elo * 100)],
+      ['Glicko', printf('%.2f\%', infer.glicko * 100), printf('%.2f\%', 100 - infer.glicko * 100)],
+    ]);
+    console.log(t);
   });
