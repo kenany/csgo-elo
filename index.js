@@ -6,6 +6,8 @@ var pairs = require('lodash.pairs');
 var sortBy = require('lodash.sortby');
 var forEachRight = require('lodash.foreachright');
 
+var ALIASES = require('@csgo-elo/aliases');
+
 var elo = new Elo();
 
 var teams = {};
@@ -14,15 +16,6 @@ var margins = {};
 
 var correct = 0;
 var matches = 0;
-
-var ALIASES = {
-  'Virtus Pro-CS': 'Virtus.Pro',
-  'Virtus.Pro.CS': 'Virtus.Pro',
-  'LunatiK eSports': 'LunatiK',
-  'compLexity Gaming': 'Cloud9',
-  'Cloud9.CS': 'Cloud9',
-  'Team Dignitas.CS': 'Team Dignitas'
-};
 
 process.stdin
   .pipe(csv())
