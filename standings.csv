@@ -1,43 +1,45 @@
 team,elo
 Team LDLC,2109
+Ninjas in Pyjamas,1978
 Team Dignitas,1974
 fnatic,1946
-Ninjas in Pyjamas,1897
-Virtus.Pro,1865
-Titan.CS,1855
+Titan.CS,1834
 iBUYPOWER,1822
-CPH Wolves,1767
+CPH Wolves,1794
+HellRaisers,1770
+Virtus.Pro,1767
 France.CS,1765
-HellRaisers,1751
-Natus Vincere,1718
+Natus Vincere,1723
+dAT team,1721
 Cloud9,1714
-dAT team,1709
-mousesports.CS,1702
+Torqued,1700
 United Estonia,1696
-Gplay,1695
 mouseSpaz,1690
-Torqued,1675
+Piter,1672
 Team Orbit,1671
 GX,1668
 Denmark.CS,1668
 Sweden.CS,1661
-ESC Gaming,1659
+mousesports.CS,1661
+Gplay,1660
 Reason Gaming CS,1652
 xile,1641
 Bad Monkey Gaming Female,1639
+ESC Gaming,1632
 Pay Attention,1629
 gBots,1626
 SK Gaming,1619
 Poland.CS,1616
+PENTA Sports,1614
 Netherlands.CS,1610
 Exertus,1600
 3DMAX Female,1597
+iNation,1592
 myXMG Female,1586
 Mercenary,1586
 Netcode,1586
 Asus CyberZone,1583
 GEDUKT,1578
-Piter,1578
 Mobility Gaming,1575
 BLUEJAYS,1573
 420BlazeIT,1572
@@ -47,8 +49,9 @@ ENCORE,1569
 lanlaget,1565
 London Conspiracy Female,1565
 myRevenge,1564
-PENTA Sports,1559
+Team Liquid.CS,1561
 compLexity Gaming,1559
+3DMAX.CS,1558
 aimface,1556
 Clutchit.org,1555
 LGB eSports,1554
@@ -61,25 +64,22 @@ k1ck eSports Club,1546
 Jesuss Christ,1542
 Finland.CS,1541
 Planetkey Dynamics,1540
-ACES,1539
 Team ALTERNATE Female,1537
 WOOSAH,1536
-Moscow 5,1534
-Denial eSports,1534
 ESG!,1534
-Team KaBuM,1533
 Counter Logic Gaming.CS,1532
-Team Liquid.CS,1530
+Team KaBuM,1530
+Denial eSports,1529
 Denial eSports: B,1527
 OveR Gaming,1527
 Enigma Gaming,1526
-VOLGARE,1525
 Ziomki,1525
 Nothing Personal,1523
 Aware Gaming,1522
 Vination eSports,1521
 Team Infused.CS,1521
 All-Stars Europe,1521
+EYESports,1520
 Outbreak,1520
 Girls Generation,1519
 1sh0t,1519
@@ -88,21 +88,21 @@ Slovakia.CS,1515
 Mousecontrol Female,1514
 Adapt,1514
 Lemondogs CS,1514
-GGWP,1513
 Comeback,1510
 Black Ravens Ltd,1510
+ACES,1510
 orKs eSports,1507
 AlienTech,1505
 Recursive eSports,1505
+VOLGARE,1502
 AMNESIA,1502
-Ubinited,1500
+Moscow 5,1499
 Ukraine.CS,1499
 4andahalfmen,1499
 UnWanted,1498
 Team Menace.fi,1498
 BZSX,1497
 ArenaLeague,1497
-3DMAX.CS,1496
 Imaginary Gaming Female,1495
 Wizards,1495
 No Problem!,1494
@@ -117,6 +117,7 @@ DEMGUNZ,1489
 Rasta.B2G,1488
 Armata.CS,1487
 Pangafett.se,1487
+Mythic,1486
 Dobry&Gaming,1486
 hiGhrollers,1486
 Evolution.CS,1485
@@ -124,6 +125,8 @@ PCWteamBACKbrb,1485
 duttdutt,1485
 ePlay.eps,1485
 TheGayMole,1485
+Mythic: B,1484
+GGWP,1484
 Shazandals,1484
 HEAT,1484
 TOOMUCHVIDEOGAMES,1484
@@ -136,17 +139,18 @@ EnRo GRIFFINS,1481
 Team Karma,1480
 Isak eSports,1480
 Vengeance & Evil,1480
+Exgaming,1479
 Vexstar,1479
 All-Stars North America,1479
 hello,1478
 ACES Female,1478
 Team Property.CS,1478
-iNation,1477
 THEX,1477
 Bosnia and Herzegovina.CS,1477
 team.CS,1477
 Paradox,1476
 Rhythm,1476
+Elysium Gaming.CS,1475
 GlobalGaming League,1475
 you stay classy,1475
 Chosen,1474
@@ -165,15 +169,14 @@ Key-Preisvergleich.de,1470
 DRUCKWELLE eSports e.V.,1470
 Expert Gaming,1470
 PerilousRAGE,1469
+eLevate,1469
 xPerience,1468
-x6tence,1468
 Games4u.se,1468
 EasyFix.it,1467
 Germany.CS,1467
 OHYEA,1467
 Bizounours,1466
 MnM,1465
-Epsilon,1465
 naMNam,1464
 Space Soldiers Black,1463
 VOX EMINOR,1463
@@ -208,6 +211,7 @@ Tempo Gaming,1452
 Awesome is Nothing,1452
 Refuse,1452
 Nutty Glock Train,1451
+x6tence,1451
 Fnatic 2008,1451
 ColdMind,1450
 nAv Gaming.CS,1450
@@ -219,6 +223,10 @@ Portugal.CS,1448
 Energy eSports,1447
 Belarus.CS,1447
 savage,1447
+neXtPlease!,1445
+Boreal eSports CS,1444
+PENTA Female,1443
+Ubinited,1443
 myKPV.de,1443
 7GR,1442
 NOD WEB.Gala,1441
@@ -229,13 +237,12 @@ AMaToPu,1439
 United Kingdom.CS,1438
 thechaps,1438
 Geduld,1436
-Games4u.se Female,1434
-eLevate,1434
 Paranoia eSports,1434
 Global Gaming eSports,1434
 Zbrilo,1433
 Art of Cybergame,1432
 ELTZ,1432
+Epsilon,1431
 Death.Energy,1430
 FM eSports,1430
 Reason Gaming Female,1429
@@ -253,7 +260,6 @@ RedWinged,1422
 LeiSuRe,1421
 Nostalgie,1421
 USSR,1419
-Mythic,1418
 EYES ON U.CS,1418
 MARVEL,1418
 OK2STRONG,1417
@@ -270,18 +276,18 @@ Area 51 Gaming,1399
 VexX Gaming eSports,1397
 Latvia.CS,1394
 NorthernGrade,1391
-WinOut.NET,1390
 LunatiK,1385
-PENTA Female,1384
 Playing-Ducks,1380
 ASES,1378
 Berzerk,1377
+Games4u.se Female,1375
 HAXCON,1372
 Turkey.CS,1371
 eliminacja,1370
+SapphireKelownaDotCom,1361
 OneShot,1359
 EVOPLAY,1358
-SapphireKelownaDotCom,1347
+WinOut.NET,1354
 A-gaming,1329
 Reliable,1321
 UNNAMED.CS,1318
