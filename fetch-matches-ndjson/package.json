@@ -1,0 +1,16 @@
+{
+  "name": "@csgo-elo/fetch-matches-ndjson",
+  "version": "0.0.0",
+  "description": "Fetch CS:GO competitive match history as ndjson",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "bin": {
+    "fetch-matches-ndjson": "bin/cmd.js"
+  },
+  "private": true,
+  "dependencies": {
+    "each-series": "^1.0.0",
+    "gosugamers-matches": "^3.0.0",
+    "minimist": "^1.1.0",
+    "ndjson": "^1.3.0"
+  }
+}
