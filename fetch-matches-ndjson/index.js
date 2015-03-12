@@ -1,12 +1,9 @@
 var eachAsync = require('each-series');
 var getMatches = require('gosugamers-matches');
 var ndjson = require('ndjson');
+var debug = require('debug')('csgo-elo:fetch-matches-ndjson');
 
 function FetchMatchesStream(pages) {
-  if (!(this instanceof FetchMatchesStream)) {
-    //return new FetchMatchesStream(pages);
-  }
-
   var serialize = ndjson.serialize();
 
   var allMatches = [];
@@ -18,14 +15,14 @@ function FetchMatchesStream(pages) {
         return;
       }
 
+      debug(page);
       allMatches = allMatches.concat(matches);
 
       done();
     });
   }, function(error) {
     if (error) {
-      callback(error);
-      return;
+      throw error;
     }
 
     // sort ascending
